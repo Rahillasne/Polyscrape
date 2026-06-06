@@ -1,0 +1,26 @@
+# Python
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+
+# Pipeline runtime artifacts (regenerated each run)
+pipeline/cache/hashes.json
+pipeline/rejected.log
+
+# Node / Astro
+node_modules/
+dist/
+.astro/
+
+# Env / secrets
+.env
+.env.local
+
+# OS / editor
+.DS_Store
+*.log
+.idea/
+.vscode/

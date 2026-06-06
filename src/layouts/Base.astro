@@ -1,0 +1,61 @@
+---
+/**
+ * Base layout: the HTML shell.
+ *
+ * - Loads the display serif (Spectral) and grotesk (Spline Sans) via
+ *   @fontsource, plus the global design-system CSS.
+ * - Bootstraps the theme BEFORE first paint (inline script in <head>) so there
+ *   is no flash of the wrong color scheme. The choice is read from
+ *   localStorage, falling back to prefers-color-scheme.
+ */
+import "@fontsource/spectral/400.css";
+import "@fontsource/spectral/500.css";
+import "@fontsource/spectral/600.css";
+import "@fontsource/spline-sans/400.css";
+import "@fontsource/spline-sans/500.css";
+import "@fontsource/spline-sans/600.css";
+import "@fontsource/spline-sans/700.css";
+import "../styles/global.css";
+import { SITE_TITLE } from "../config";
+
+interface Props {
+  title?: string;
+  description?: string;
+}
+
+const {
+  title = SITE_TITLE,
+  description = "Track application deadlines for startup accelerators, pitch competitions, grants, and fellowships.",
+} = Astro.props;
+---
+
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="description" content={description} />
+    <meta name="color-scheme" content="light dark" />
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <title>{title}</title>
+
+    {/* Theme bootstrap — must run before paint to avoid a flash. */}
+    <script is:inline>
+      (function () {
+        try {
+          var stored = localStorage.getItem("fd-theme");
+          var prefersDark =
+            window.matchMedia &&
+            window.matchMedia("(prefers-color-scheme: dark)").matches;
+          var theme = stored || (prefersDark ? "dark" : "light");
+          document.documentElement.setAttribute("data-theme", theme);
+        } catch (e) {
+          document.documentElement.setAttribute("data-theme", "light");
+        }
+      })();
+    </script>
+  </head>
+  <body>
+    <slot />
+  </body>
+</html>

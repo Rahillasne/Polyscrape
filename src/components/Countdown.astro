@@ -1,0 +1,62 @@
+---
+/**
+ * Countdown — the live countdown element for a card.
+ *
+ * Renders a calm initial state at build time and exposes the deadline (and
+ * rolling flag) via data-* attributes. The client script (app.ts) finds every
+ * [data-countdown] node and updates it once per second:
+ *   - rolling      -> "Rolling — apply anytime"
+ *   - past deadline -> "Closed"
+ *   - upcoming     -> "Xd Yh Zm Ws" (urgent <7d gets stronger weight via a class)
+ *
+ * We pre-render a best-effort label so the page reads correctly even before JS
+ * runs (and for users with JS disabled).
+ */
+interface Props {
+  deadline: string | null;
+  rolling: boolean;
+}
+
+const { deadline, rolling } = Astro.props;
+
+/** Build the static, pre-JS label and the matching state class. */
+function initialState(): { label: string; stateClass: string } {
+  if (rolling || !deadline) {
+    return { label: "Rolling — apply anytime", stateClass: "is-rolling" };
+  }
+  const target = Date.parse(deadline);
+  if (Number.isNaN(target)) {
+    return { label: "Date unavailable", stateClass: "is-closed" };
+  }
+  const diff = target - Date.now();
+  if (diff <= 0) {
+    return { label: "Closed", stateClass: "is-closed" };
+  }
+
+  const totalSeconds = Math.floor(diff / 1000);
+  const days = Math.floor(totalSeconds / 86400);
+  const hours = Math.floor((totalSeconds % 86400) / 3600);
+  const minutes = Math.floor((totalSeconds % 3600) / 60);
+  const seconds = totalSeconds % 60;
+
+  const urgent = diff < 7 * 86400 * 1000;
+  return {
+    label: `${days}d ${hours}h ${minutes}m ${seconds}s`,
+    stateClass: urgent ? "is-urgent" : "",
+  };
+}
+
+const { label, stateClass } = initialState();
+const showLabel = !rolling && !!deadline;
+---
+
+<div
+  class:list={["countdown", stateClass]}
+  data-countdown
+  data-deadline={deadline ?? ""}
+  data-rolling={rolling ? "true" : "false"}
+  aria-live="off"
+>
+  <span class="countdown__value" data-countdown-value>{label}</span>
+  {showLabel && <span class="countdown__label">until deadline</span>}
+</div>

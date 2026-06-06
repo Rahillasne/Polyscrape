@@ -1,0 +1,22 @@
+{
+  "name": "funding-deadlines",
+  "version": "1.0.0",
+  "description": "A static site tracking deadlines for startup funding: accelerators, pitch competitions, grants, and fellowships.",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "dev": "astro dev",
+    "start": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview",
+    "astro": "astro"
+  },
+  "dependencies": {
+    "astro": "^5.7.0"
+  },
+  "devDependencies": {
+    "@fontsource/spectral": "^5.1.0",
+    "@fontsource/spline-sans": "^5.1.0",
+    "typescript": "^5.7.0"
+  }
+}

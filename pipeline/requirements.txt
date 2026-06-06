@@ -1,0 +1,10 @@
+# FundingDeadlines / Polyscrape pipeline dependencies (pinned, reproducible).
+requests==2.32.3
+beautifulsoup4==4.12.3
+google-genai==0.8.0
+# Pin a STABLE pydantic: google-genai's loose constraint can otherwise let the
+# resolver pull a pre-release alpha (e.g. 2.14.0a1), which breaks CI reproducibility.
+pydantic>=2.11,<2.14
+python-dateutil==2.9.0.post0
+python-dotenv==1.0.1
+pytest==8.3.4

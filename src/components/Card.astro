@@ -1,0 +1,163 @@
+---
+/**
+ * Card — one funding program.
+ *
+ * Renders entirely at build time from a single `Deadline` record. The card
+ * carries data-* attributes so the client script (app.ts) can filter, search,
+ * sort, build the per-card .ics file, and open a prefilled "report wrong date"
+ * GitHub issue — without re-rendering anything.
+ *
+ * Reads only fields defined in src/types.ts.
+ */
+import type { Deadline, Category } from "../types";
+import StageChip from "./StageChip.astro";
+import Countdown from "./Countdown.astro";
+
+interface Props {
+  item: Deadline;
+}
+
+const { item } = Astro.props;
+
+const CATEGORY_LABELS: Record<Category, string> = {
+  accelerator: "Accelerator",
+  competition: "Competition",
+  grant: "Grant",
+  fellowship: "Fellowship",
+};
+
+const categoryLabel = CATEGORY_LABELS[item.category] ?? item.category;
+
+/**
+ * Sort key (ms). Soonest upcoming deadlines sort first; rolling and closed
+ * programs sort last. The client mirrors this exact logic for live re-sorts.
+ */
+function sortKey(): number {
+  const FAR_FUTURE = Number.MAX_SAFE_INTEGER;
+  if (item.rolling || !item.deadline) return FAR_FUTURE;
+  const t = Date.parse(item.deadline);
+  if (Number.isNaN(t)) return FAR_FUTURE;
+  // Closed deadlines sort after every upcoming one but before rolling/invalid.
+  if (t < Date.now()) return FAR_FUTURE - 1;
+  return t;
+}
+
+// Lowercased haystack for the search box (name / organizer / location).
+const searchText =
+  `${item.name} ${item.organizer} ${item.location}`.toLowerCase();
+---
+
+<article
+  class="card"
+  data-card
+  data-slug={item.slug}
+  data-category={item.category}
+  data-search={searchText}
+  data-sort-key={String(sortKey())}
+  data-rolling={item.rolling ? "true" : "false"}
+  data-deadline={item.deadline ?? ""}
+  data-name={item.name}
+  data-organizer={item.organizer}
+  data-location={item.location}
+  data-funding={item.funding}
+  data-event-date={item.event_date ?? ""}
+  data-apply-url={item.apply_url}
+>
+  <span class="card__featured-label">Closing soonest</span>
+
+  <header class="card__head">
+    <span class="card__category">{categoryLabel}</span>
+    <h2 class="card__name">{item.name}</h2>
+    <p class="card__organizer">{item.organizer}</p>
+  </header>
+
+  <Countdown deadline={item.deadline} rolling={item.rolling} />
+
+  <div class="card__meta">
+    <div class="meta-row">
+      {/* coins icon */}
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75" aria-hidden="true">
+        <ellipse cx="12" cy="6" rx="8" ry="3" />
+        <path d="M4 6v6c0 1.66 3.58 3 8 3s8-1.34 8-3V6" />
+        <path d="M4 12v6c0 1.66 3.58 3 8 3s8-1.34 8-3v-6" />
+      </svg>
+      <span><strong>{item.funding}</strong></span>
+    </div>
+    <div class="meta-row">
+      {/* pin icon */}
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75" aria-hidden="true">
+        <path d="M12 21s-7-5.5-7-11a7 7 0 0 1 14 0c0 5.5-7 11-7 11Z" />
+        <circle cx="12" cy="10" r="2.5" />
+      </svg>
+      <span>{item.location}</span>
+    </div>
+    {
+      item.event_date && (
+        <div class="meta-row">
+          {/* calendar icon */}
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75" aria-hidden="true">
+            <rect x="3.5" y="5" width="17" height="15" rx="2" />
+            <path d="M3.5 9.5h17M8 3.5v3M16 3.5v3" />
+          </svg>
+          <span>
+            Event{" "}
+            <strong>
+              {new Date(item.event_date + "T00:00:00Z").toLocaleDateString(
+                "en-US",
+                { month: "short", day: "numeric", year: "numeric", timeZone: "UTC" },
+              )}
+            </strong>
+          </span>
+        </div>
+      )
+    }
+  </div>
+
+  <div class="card__chips">
+    <StageChip stage={item.stage} />
+    {item.needs_review && <span class="chip chip--review">Needs review</span>}
+  </div>
+
+  <div class="card__actions">
+    <a
+      class="btn-apply"
+      href={item.apply_url}
+      target="_blank"
+      rel="noopener noreferrer"
+    >
+      Apply
+      {/* external-link icon */}
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true">
+        <path d="M14 4h6v6M20 4l-9 9M18 13v6H5V6h6" />
+      </svg>
+    </a>
+
+    {
+      !item.rolling && item.deadline && (
+        <button
+          type="button"
+          class="icon-btn"
+          data-ics-card
+          aria-label={`Download calendar event for ${item.name}`}
+          title="Add to calendar (.ics)"
+        >
+          {/* calendar-plus icon */}
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75" aria-hidden="true">
+            <rect x="3.5" y="5" width="17" height="15" rx="2" />
+            <path d="M3.5 9.5h17M8 3.5v3M16 3.5v3M12 12.5v5M9.5 15h5" />
+          </svg>
+        </button>
+      )
+    }
+  </div>
+
+  <div class="card__subactions">
+    <a class="link-quiet" data-source-link href={item.source_url} target="_blank" rel="noopener noreferrer">
+      Source
+    </a>
+    {/* The href is finalized client-side from data-* so it always carries the slug. */}
+    <a class="link-quiet" data-report-link href="#" target="_blank" rel="noopener noreferrer">
+      Report wrong date
+    </a>
+  </div>
+</article>

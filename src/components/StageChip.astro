@@ -1,0 +1,25 @@
+---
+/**
+ * StageChip — a small chip describing the target company stage.
+ * Reads only the `stage` field from the data model.
+ */
+import type { Stage } from "../types";
+
+interface Props {
+  stage: Stage;
+}
+
+const { stage } = Astro.props;
+
+const LABELS: Record<Stage, string> = {
+  "pre-seed": "Pre-seed",
+  seed: "Seed",
+  any: "Any stage",
+};
+
+const label = LABELS[stage] ?? stage;
+---
+
+<span class="chip chip--stage" data-stage={stage} title={`Stage: ${label}`}>
+  {label}
+</span>
