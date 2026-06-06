@@ -32,47 +32,74 @@ class GrantsGovAdapter(ApiAdapter):
     name = "grants_gov"
     source_type = "api"
 
+    # Several startup/tech-relevant keyword queries are run and merged so the
+    # source is far denser than a single search — Grants.gov scopes results to
+    # the keyword, so one query alone misses most relevant opportunities.
+    _DEFAULT_KEYWORDS = (
+        "small business innovation",
+        "startup",
+        "artificial intelligence",
+        "clean energy",
+        "biotechnology",
+        "advanced manufacturing",
+        "entrepreneurship",
+        "technology commercialization",
+    )
+
     def __init__(
         self,
-        rows: int = 50,
-        keyword: str = "small business innovation",
+        rows: int = 80,
+        keyword: str | None = None,
+        keywords: tuple[str, ...] | list[str] | None = None,
         opp_statuses: str = "posted|forecasted",
     ) -> None:
         self.rows = rows
-        self.keyword = keyword
+        # Back-compat: a single ``keyword`` still works; otherwise run the set.
+        if keyword is not None:
+            self.keywords = [keyword]
+        else:
+            self.keywords = list(keywords) if keywords else list(self._DEFAULT_KEYWORDS)
         self.opp_statuses = opp_statuses
 
+    def _search_one(self, session, keyword: str) -> list:
+        """POST one keyword query; return its ``oppHits`` list (or [])."""
+        body = {"rows": self.rows, "keyword": keyword, "oppStatuses": self.opp_statuses}
+        resp = session.post(
+            _SEARCH_URL,
+            json=body,
+            headers={"Content-Type": "application/json", "Accept": "application/json"},
+        )
+        resp.raise_for_status()
+        data = resp.json()
+        if not isinstance(data, dict):
+            return []
+        inner = data.get("data")
+        hits = inner.get("oppHits") if isinstance(inner, dict) else None
+        return hits if isinstance(hits, list) else []
+
     def fetch(self) -> object:
-        """POST the Search2 query as JSON; return ``{}`` on any failure."""
-        body = {
-            "rows": self.rows,
-            "keyword": self.keyword,
-            "oppStatuses": self.opp_statuses,
-        }
-        try:
-            session = make_session()
-            resp = session.post(
-                _SEARCH_URL,
-                json=body,
-                headers={
-                    "Content-Type": "application/json",
-                    "Accept": "application/json",
-                },
-            )
-            resp.raise_for_status()
-            data = resp.json()
-            if not isinstance(data, dict):
-                log.warning(
-                    "Grants.gov payload was not an object; got %s",
-                    type(data).__name__,
-                )
-                return {}
-            return data
-        except Exception as exc:  # noqa: BLE001 - never raise out of fetch
-            log.warning(
-                "Grants.gov fetch failed (%s); returning empty payload", exc
-            )
+        """Run every keyword query, merge + dedup hits by id; ``{}`` on total failure.
+
+        Returns the canonical ``{"data": {"oppHits": [...]}}`` shape so
+        :meth:`extract` is unchanged. A single keyword failing is non-fatal —
+        only a complete wipeout returns an empty payload.
+        """
+        session = make_session()
+        merged: dict[str, dict] = {}
+        any_ok = False
+        for keyword in self.keywords:
+            try:
+                for hit in self._search_one(session, keyword):
+                    if isinstance(hit, dict):
+                        key = str(hit.get("id") or hit.get("number") or id(hit))
+                        merged.setdefault(key, hit)
+                any_ok = True
+            except Exception as exc:  # noqa: BLE001 - one keyword failing is non-fatal
+                log.warning("Grants.gov query %r failed (%s); skipping", keyword, exc)
+        if not any_ok and not merged:
+            log.warning("Grants.gov: all queries failed; returning empty payload")
             return {}
+        return {"data": {"oppHits": list(merged.values())}}
 
     def extract(self, raw) -> list[dict]:
         """Map Grants.gov opportunity hits to partial grant records.

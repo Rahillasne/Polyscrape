@@ -44,17 +44,43 @@ class DevpostAdapter(ApiAdapter):
     name = "devpost"
     source_type = "api"
 
+    def __init__(self, pages: int = 5) -> None:
+        # How many feed pages to walk. The feed is paginated (~10/ page), so a
+        # handful of pages turns a dozen hackathons into many dozens.
+        self.pages = max(1, pages)
+
     def fetch(self) -> object:
-        """GET the Devpost feed as JSON; return ``{}`` on any failure."""
-        try:
-            session = make_session()
-            resp = session.get(_DEVPOST_URL)
-            resp.raise_for_status()
-            data = resp.json()
-            return data if isinstance(data, dict) else {}
-        except Exception as exc:  # noqa: BLE001 - network failure is non-fatal
-            log.warning("Devpost fetch failed (%s); returning empty payload", exc)
+        """Walk several feed pages, merge + dedup hackathons; ``{}`` on total failure.
+
+        Returns the canonical ``{"hackathons": [...]}`` shape so :meth:`extract`
+        is unchanged. Stops early on an empty page; a single page failing is
+        non-fatal.
+        """
+        session = make_session()
+        merged: dict[str, dict] = {}
+        any_ok = False
+        for page in range(1, self.pages + 1):
+            try:
+                resp = session.get(f"{_DEVPOST_URL}&page={page}")
+                resp.raise_for_status()
+                data = resp.json()
+            except Exception as exc:  # noqa: BLE001 - one page failing is non-fatal
+                log.warning("Devpost page %d failed (%s); skipping", page, exc)
+                continue
+            if not isinstance(data, dict):
+                continue
+            any_ok = True
+            hackathons = data.get("hackathons")
+            if not isinstance(hackathons, list) or not hackathons:
+                break  # no more results
+            for h in hackathons:
+                if isinstance(h, dict):
+                    key = str(h.get("url") or h.get("id") or id(h))
+                    merged.setdefault(key, h)
+        if not any_ok and not merged:
+            log.warning("Devpost fetch failed on all pages; returning empty payload")
             return {}
+        return {"hackathons": list(merged.values())}
 
     def extract(self, raw) -> list[dict]:
         """Map Devpost hackathons to partial competition records.

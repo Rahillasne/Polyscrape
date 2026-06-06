@@ -402,7 +402,13 @@ button {
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
   gap: var(--gap);
-  align-items: start;
+  /* Every card fills the full height of its row (align stretch) AND every row
+     is forced to the same height (grid-auto-rows: 1fr), so the whole grid is a
+     clean matrix of equal-size cards — no card or row taller than its neighbours.
+     The card is a flex column with `.card__actions { margin-top: auto }`, so the
+     Apply button always pins to the bottom and short cards never look hollow. */
+  align-items: stretch;
+  grid-auto-rows: 1fr;
 }
 
 .card {

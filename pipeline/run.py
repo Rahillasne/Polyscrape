@@ -61,10 +61,28 @@ log = logging.getLogger("pipeline.run")
 # Real accelerator/competition pages handed to the LLM adapter. The LiveVerify
 # phase prunes any that don't yield records, so it's fine to list a few.
 LLM_TARGETS = [
+    # Tier-1 accelerators
     ("https://www.antler.co/apply", "Antler", "Antler Residency"),
     ("https://www.ycombinator.com/apply", "Y Combinator", "Y Combinator"),
     ("https://www.techstars.com/accelerators", "Techstars", "Techstars Accelerator"),
     ("https://www.500.co/accelerators", "500 Global", "500 Global Flagship"),
+    # More US accelerators / residencies
+    ("https://www.alchemistaccelerator.com/apply", "Alchemist Accelerator", "Alchemist Accelerator"),
+    ("https://www.gener8tor.com/programs", "gener8tor", "gener8tor Accelerator"),
+    ("https://hf0.com/", "HF0", "HF0 Residency"),
+    ("https://www.spc.com/", "South Park Commons", "South Park Commons Founder Fellowship"),
+    ("https://a16z.com/speedrun/", "Andreessen Horowitz", "a16z Speedrun"),
+    ("https://www.foundersinc.com/", "Founders, Inc.", "Founders Inc / f.inc"),
+    ("https://founderinstitute.com/apply/", "Founder Institute", "Founder Institute"),
+    ("https://www.capitalfactory.com/", "Capital Factory", "Capital Factory Accelerator"),
+    # Bio / deep-tech
+    ("https://www.indiebio.co/", "IndieBio (SOSV)", "IndieBio"),
+    # International accelerators
+    ("https://seedcamp.com/", "Seedcamp", "Seedcamp"),
+    ("https://www.foundersfactory.com/", "Founders Factory", "Founders Factory"),
+    ("https://www.startupbootcamp.org/", "Startupbootcamp", "Startupbootcamp"),
+    # Fellowships / non-dilutive
+    ("https://www.spc.com/fellowship", "South Park Commons", "SPC Founder Fellowship"),
 ]
 
 # The full adapter roster: three structured APIs + the LLM targets.
