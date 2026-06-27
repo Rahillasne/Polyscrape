@@ -67,7 +67,7 @@
     "apply_url": "https://www.antler.co/apply",
     "source_url": "https://www.antler.co/residency/us",
     "source_type": "curated",
-    "last_verified": "2026-06-20T09:44:27Z",
+    "last_verified": "2026-06-27T09:06:41Z",
     "confidence": "high",
     "needs_review": false
   },
@@ -2353,7 +2353,7 @@
     "apply_url": "https://seedcamp.com/",
     "source_url": "https://seedcamp.com/",
     "source_type": "curated",
-    "last_verified": "2026-06-19T10:58:51Z",
+    "last_verified": "2026-06-27T09:06:41Z",
     "confidence": "high",
     "needs_review": false
   },
@@ -4045,7 +4045,7 @@
     "apply_url": "https://www.grants.gov/search-results-detail/359671",
     "source_url": "https://www.grants.gov/search-results-detail/359671",
     "source_type": "api",
-    "last_verified": "2026-06-26T09:53:10Z",
+    "last_verified": "2026-06-27T09:06:41Z",
     "confidence": "high",
     "needs_review": false
   },
@@ -4063,7 +4063,7 @@
     "apply_url": "https://www.grants.gov/search-results-detail/362551",
     "source_url": "https://www.grants.gov/search-results-detail/362551",
     "source_type": "api",
-    "last_verified": "2026-06-26T09:53:10Z",
+    "last_verified": "2026-06-27T09:06:41Z",
     "confidence": "high",
     "needs_review": false
   },
@@ -4081,7 +4081,7 @@
     "apply_url": "https://www.grants.gov/search-results-detail/359758",
     "source_url": "https://www.grants.gov/search-results-detail/359758",
     "source_type": "api",
-    "last_verified": "2026-06-26T09:53:10Z",
+    "last_verified": "2026-06-27T09:06:41Z",
     "confidence": "high",
     "needs_review": false
   },
@@ -4099,7 +4099,7 @@
     "apply_url": "https://www.grants.gov/search-results-detail/359757",
     "source_url": "https://www.grants.gov/search-results-detail/359757",
     "source_type": "api",
-    "last_verified": "2026-06-26T09:53:10Z",
+    "last_verified": "2026-06-27T09:06:41Z",
     "confidence": "high",
     "needs_review": false
   },
@@ -4117,7 +4117,7 @@
     "apply_url": "https://www.grants.gov/search-results-detail/359966",
     "source_url": "https://www.grants.gov/search-results-detail/359966",
     "source_type": "api",
-    "last_verified": "2026-06-26T09:53:10Z",
+    "last_verified": "2026-06-27T09:06:41Z",
     "confidence": "high",
     "needs_review": false
   },
@@ -4171,7 +4171,7 @@
     "apply_url": "https://www.grants.gov/search-results-detail/362392",
     "source_url": "https://www.grants.gov/search-results-detail/362392",
     "source_type": "api",
-    "last_verified": "2026-06-26T09:53:10Z",
+    "last_verified": "2026-06-27T09:06:41Z",
     "confidence": "high",
     "needs_review": false
   },
@@ -4189,7 +4189,7 @@
     "apply_url": "https://www.grants.gov/search-results-detail/362624",
     "source_url": "https://www.grants.gov/search-results-detail/362624",
     "source_type": "api",
-    "last_verified": "2026-06-26T09:53:10Z",
+    "last_verified": "2026-06-27T09:06:41Z",
     "confidence": "high",
     "needs_review": false
   },
@@ -4207,7 +4207,7 @@
     "apply_url": "https://www.grants.gov/search-results-detail/362383",
     "source_url": "https://www.grants.gov/search-results-detail/362383",
     "source_type": "api",
-    "last_verified": "2026-06-26T09:53:10Z",
+    "last_verified": "2026-06-27T09:06:41Z",
     "confidence": "high",
     "needs_review": false
   },
@@ -4243,7 +4243,7 @@
     "apply_url": "https://www.grants.gov/search-results-detail/352741",
     "source_url": "https://www.grants.gov/search-results-detail/352741",
     "source_type": "api",
-    "last_verified": "2026-06-26T09:53:10Z",
+    "last_verified": "2026-06-27T09:06:41Z",
     "confidence": "high",
     "needs_review": false
   },
@@ -4261,7 +4261,7 @@
     "apply_url": "https://www.grants.gov/search-results-detail/362385",
     "source_url": "https://www.grants.gov/search-results-detail/362385",
     "source_type": "api",
-    "last_verified": "2026-06-26T09:53:10Z",
+    "last_verified": "2026-06-27T09:06:41Z",
     "confidence": "high",
     "needs_review": false
   },
@@ -4297,7 +4297,7 @@
     "apply_url": "https://www.grants.gov/search-results-detail/362298",
     "source_url": "https://www.grants.gov/search-results-detail/362298",
     "source_type": "api",
-    "last_verified": "2026-06-26T09:53:10Z",
+    "last_verified": "2026-06-27T09:06:41Z",
     "confidence": "high",
     "needs_review": false
   },
@@ -4315,7 +4315,7 @@
     "apply_url": "https://www.grants.gov/search-results-detail/362903",
     "source_url": "https://www.grants.gov/search-results-detail/362903",
     "source_type": "api",
-    "last_verified": "2026-06-26T09:53:10Z",
+    "last_verified": "2026-06-27T09:06:41Z",
     "confidence": "high",
     "needs_review": false
   },
@@ -4369,7 +4369,7 @@
     "apply_url": "https://www.grants.gov/search-results-detail/357498",
     "source_url": "https://www.grants.gov/search-results-detail/357498",
     "source_type": "api",
-    "last_verified": "2026-06-26T09:53:10Z",
+    "last_verified": "2026-06-27T09:06:41Z",
     "confidence": "high",
     "needs_review": false
   },
@@ -4387,7 +4387,7 @@
     "apply_url": "https://www.grants.gov/search-results-detail/361829",
     "source_url": "https://www.grants.gov/search-results-detail/361829",
     "source_type": "api",
-    "last_verified": "2026-06-26T09:53:10Z",
+    "last_verified": "2026-06-27T09:06:41Z",
     "confidence": "high",
     "needs_review": false
   },
@@ -4405,7 +4405,7 @@
     "apply_url": "https://www.grants.gov/search-results-detail/359669",
     "source_url": "https://www.grants.gov/search-results-detail/359669",
     "source_type": "api",
-    "last_verified": "2026-06-26T09:53:10Z",
+    "last_verified": "2026-06-27T09:06:41Z",
     "confidence": "high",
     "needs_review": false
   },
@@ -4423,7 +4423,7 @@
     "apply_url": "https://www.grants.gov/search-results-detail/362429",
     "source_url": "https://www.grants.gov/search-results-detail/362429",
     "source_type": "api",
-    "last_verified": "2026-06-26T09:53:10Z",
+    "last_verified": "2026-06-27T09:06:41Z",
     "confidence": "high",
     "needs_review": false
   },
@@ -4459,7 +4459,7 @@
     "apply_url": "https://www.grants.gov/search-results-detail/362084",
     "source_url": "https://www.grants.gov/search-results-detail/362084",
     "source_type": "api",
-    "last_verified": "2026-06-26T09:53:10Z",
+    "last_verified": "2026-06-27T09:06:41Z",
     "confidence": "high",
     "needs_review": false
   },
@@ -4477,7 +4477,7 @@
     "apply_url": "https://www.grants.gov/search-results-detail/362107",
     "source_url": "https://www.grants.gov/search-results-detail/362107",
     "source_type": "api",
-    "last_verified": "2026-06-26T09:53:10Z",
+    "last_verified": "2026-06-27T09:06:41Z",
     "confidence": "high",
     "needs_review": false
   },
@@ -4495,7 +4495,7 @@
     "apply_url": "https://www.grants.gov/search-results-detail/362122",
     "source_url": "https://www.grants.gov/search-results-detail/362122",
     "source_type": "api",
-    "last_verified": "2026-06-26T09:53:10Z",
+    "last_verified": "2026-06-27T09:06:41Z",
     "confidence": "high",
     "needs_review": false
   },
@@ -4513,7 +4513,7 @@
     "apply_url": "https://www.grants.gov/search-results-detail/361526",
     "source_url": "https://www.grants.gov/search-results-detail/361526",
     "source_type": "api",
-    "last_verified": "2026-06-26T09:53:10Z",
+    "last_verified": "2026-06-27T09:06:41Z",
     "confidence": "high",
     "needs_review": false
   },
@@ -4531,7 +4531,7 @@
     "apply_url": "https://www.grants.gov/search-results-detail/362065",
     "source_url": "https://www.grants.gov/search-results-detail/362065",
     "source_type": "api",
-    "last_verified": "2026-06-26T09:53:10Z",
+    "last_verified": "2026-06-27T09:06:41Z",
     "confidence": "high",
     "needs_review": false
   },
@@ -4567,7 +4567,7 @@
     "apply_url": "https://www.grants.gov/search-results-detail/350018",
     "source_url": "https://www.grants.gov/search-results-detail/350018",
     "source_type": "api",
-    "last_verified": "2026-06-26T09:53:10Z",
+    "last_verified": "2026-06-27T09:06:41Z",
     "confidence": "high",
     "needs_review": false
   },
@@ -4585,7 +4585,7 @@
     "apply_url": "https://www.grants.gov/search-results-detail/356953",
     "source_url": "https://www.grants.gov/search-results-detail/356953",
     "source_type": "api",
-    "last_verified": "2026-06-26T09:53:10Z",
+    "last_verified": "2026-06-27T09:06:41Z",
     "confidence": "high",
     "needs_review": false
   },
@@ -4639,7 +4639,7 @@
     "apply_url": "https://www.grants.gov/search-results-detail/362489",
     "source_url": "https://www.grants.gov/search-results-detail/362489",
     "source_type": "api",
-    "last_verified": "2026-06-26T09:53:10Z",
+    "last_verified": "2026-06-27T09:06:41Z",
     "confidence": "high",
     "needs_review": false
   },
@@ -4657,7 +4657,7 @@
     "apply_url": "https://www.grants.gov/search-results-detail/357337",
     "source_url": "https://www.grants.gov/search-results-detail/357337",
     "source_type": "api",
-    "last_verified": "2026-06-26T09:53:10Z",
+    "last_verified": "2026-06-27T09:06:41Z",
     "confidence": "high",
     "needs_review": false
   },
@@ -4675,7 +4675,7 @@
     "apply_url": "https://www.grants.gov/search-results-detail/357334",
     "source_url": "https://www.grants.gov/search-results-detail/357334",
     "source_type": "api",
-    "last_verified": "2026-06-26T09:53:10Z",
+    "last_verified": "2026-06-27T09:06:41Z",
     "confidence": "high",
     "needs_review": false
   },
@@ -4693,7 +4693,7 @@
     "apply_url": "https://www.grants.gov/search-results-detail/362398",
     "source_url": "https://www.grants.gov/search-results-detail/362398",
     "source_type": "api",
-    "last_verified": "2026-06-26T09:53:10Z",
+    "last_verified": "2026-06-27T09:06:41Z",
     "confidence": "high",
     "needs_review": false
   },
@@ -4711,7 +4711,7 @@
     "apply_url": "https://www.grants.gov/search-results-detail/362605",
     "source_url": "https://www.grants.gov/search-results-detail/362605",
     "source_type": "api",
-    "last_verified": "2026-06-26T09:53:10Z",
+    "last_verified": "2026-06-27T09:06:41Z",
     "confidence": "high",
     "needs_review": false
   },
@@ -4729,7 +4729,7 @@
     "apply_url": "https://www.grants.gov/search-results-detail/355499",
     "source_url": "https://www.grants.gov/search-results-detail/355499",
     "source_type": "api",
-    "last_verified": "2026-06-26T09:53:10Z",
+    "last_verified": "2026-06-27T09:06:41Z",
     "confidence": "high",
     "needs_review": false
   },
@@ -4765,7 +4765,7 @@
     "apply_url": "https://www.grants.gov/search-results-detail/362294",
     "source_url": "https://www.grants.gov/search-results-detail/362294",
     "source_type": "api",
-    "last_verified": "2026-06-26T09:53:10Z",
+    "last_verified": "2026-06-27T09:06:41Z",
     "confidence": "high",
     "needs_review": false
   },
@@ -4783,7 +4783,7 @@
     "apply_url": "https://www.grants.gov/search-results-detail/357730",
     "source_url": "https://www.grants.gov/search-results-detail/357730",
     "source_type": "api",
-    "last_verified": "2026-06-26T09:53:10Z",
+    "last_verified": "2026-06-27T09:06:41Z",
     "confidence": "high",
     "needs_review": false
   },
@@ -4801,7 +4801,7 @@
     "apply_url": "https://www.grants.gov/search-results-detail/356978",
     "source_url": "https://www.grants.gov/search-results-detail/356978",
     "source_type": "api",
-    "last_verified": "2026-06-26T09:53:10Z",
+    "last_verified": "2026-06-27T09:06:41Z",
     "confidence": "high",
     "needs_review": false
   },
@@ -4819,7 +4819,7 @@
     "apply_url": "https://www.grants.gov/search-results-detail/356979",
     "source_url": "https://www.grants.gov/search-results-detail/356979",
     "source_type": "api",
-    "last_verified": "2026-06-26T09:53:10Z",
+    "last_verified": "2026-06-27T09:06:41Z",
     "confidence": "high",
     "needs_review": false
   },
@@ -4837,7 +4837,7 @@
     "apply_url": "https://www.grants.gov/search-results-detail/357543",
     "source_url": "https://www.grants.gov/search-results-detail/357543",
     "source_type": "api",
-    "last_verified": "2026-06-26T09:53:10Z",
+    "last_verified": "2026-06-27T09:06:41Z",
     "confidence": "high",
     "needs_review": false
   },
@@ -4855,7 +4855,7 @@
     "apply_url": "https://www.grants.gov/search-results-detail/361374",
     "source_url": "https://www.grants.gov/search-results-detail/361374",
     "source_type": "api",
-    "last_verified": "2026-06-26T09:53:10Z",
+    "last_verified": "2026-06-27T09:06:41Z",
     "confidence": "high",
     "needs_review": false
   },
@@ -4873,7 +4873,7 @@
     "apply_url": "https://www.grants.gov/search-results-detail/362283",
     "source_url": "https://www.grants.gov/search-results-detail/362283",
     "source_type": "api",
-    "last_verified": "2026-06-26T09:53:10Z",
+    "last_verified": "2026-06-27T09:06:41Z",
     "confidence": "high",
     "needs_review": false
   },
@@ -4891,7 +4891,7 @@
     "apply_url": "https://www.grants.gov/search-results-detail/362606",
     "source_url": "https://www.grants.gov/search-results-detail/362606",
     "source_type": "api",
-    "last_verified": "2026-06-26T09:53:10Z",
+    "last_verified": "2026-06-27T09:06:41Z",
     "confidence": "high",
     "needs_review": false
   },
@@ -4927,7 +4927,7 @@
     "apply_url": "https://www.grants.gov/search-results-detail/362382",
     "source_url": "https://www.grants.gov/search-results-detail/362382",
     "source_type": "api",
-    "last_verified": "2026-06-26T09:53:10Z",
+    "last_verified": "2026-06-27T09:06:41Z",
     "confidence": "high",
     "needs_review": false
   },
@@ -4945,7 +4945,7 @@
     "apply_url": "https://www.grants.gov/search-results-detail/359782",
     "source_url": "https://www.grants.gov/search-results-detail/359782",
     "source_type": "api",
-    "last_verified": "2026-06-26T09:53:10Z",
+    "last_verified": "2026-06-27T09:06:41Z",
     "confidence": "high",
     "needs_review": false
   },
@@ -4963,7 +4963,7 @@
     "apply_url": "https://www.grants.gov/search-results-detail/361822",
     "source_url": "https://www.grants.gov/search-results-detail/361822",
     "source_type": "api",
-    "last_verified": "2026-06-26T09:53:10Z",
+    "last_verified": "2026-06-27T09:06:41Z",
     "confidence": "high",
     "needs_review": false
   },
@@ -4981,7 +4981,7 @@
     "apply_url": "https://www.grants.gov/search-results-detail/362646",
     "source_url": "https://www.grants.gov/search-results-detail/362646",
     "source_type": "api",
-    "last_verified": "2026-06-26T09:53:10Z",
+    "last_verified": "2026-06-27T09:06:41Z",
     "confidence": "high",
     "needs_review": false
   },
@@ -5017,7 +5017,7 @@
     "apply_url": "https://www.grants.gov/search-results-detail/358850",
     "source_url": "https://www.grants.gov/search-results-detail/358850",
     "source_type": "api",
-    "last_verified": "2026-06-26T09:53:10Z",
+    "last_verified": "2026-06-27T09:06:41Z",
     "confidence": "high",
     "needs_review": false
   },
@@ -5053,7 +5053,7 @@
     "apply_url": "https://www.grants.gov/search-results-detail/361866",
     "source_url": "https://www.grants.gov/search-results-detail/361866",
     "source_type": "api",
-    "last_verified": "2026-06-26T09:53:10Z",
+    "last_verified": "2026-06-27T09:06:41Z",
     "confidence": "high",
     "needs_review": false
   },
@@ -5071,7 +5071,7 @@
     "apply_url": "https://www.grants.gov/search-results-detail/360593",
     "source_url": "https://www.grants.gov/search-results-detail/360593",
     "source_type": "api",
-    "last_verified": "2026-06-26T09:53:10Z",
+    "last_verified": "2026-06-27T09:06:41Z",
     "confidence": "high",
     "needs_review": false
   },
@@ -5089,7 +5089,7 @@
     "apply_url": "https://www.grants.gov/search-results-detail/358938",
     "source_url": "https://www.grants.gov/search-results-detail/358938",
     "source_type": "api",
-    "last_verified": "2026-06-26T09:53:10Z",
+    "last_verified": "2026-06-27T09:06:41Z",
     "confidence": "high",
     "needs_review": false
   },
@@ -5107,7 +5107,7 @@
     "apply_url": "https://www.grants.gov/search-results-detail/358851",
     "source_url": "https://www.grants.gov/search-results-detail/358851",
     "source_type": "api",
-    "last_verified": "2026-06-26T09:53:10Z",
+    "last_verified": "2026-06-27T09:06:41Z",
     "confidence": "high",
     "needs_review": false
   },
@@ -5125,7 +5125,7 @@
     "apply_url": "https://www.grants.gov/search-results-detail/362870",
     "source_url": "https://www.grants.gov/search-results-detail/362870",
     "source_type": "api",
-    "last_verified": "2026-06-26T09:53:10Z",
+    "last_verified": "2026-06-27T09:06:41Z",
     "confidence": "high",
     "needs_review": false
   },
@@ -5143,7 +5143,7 @@
     "apply_url": "https://www.grants.gov/search-results-detail/360651",
     "source_url": "https://www.grants.gov/search-results-detail/360651",
     "source_type": "api",
-    "last_verified": "2026-06-26T09:53:10Z",
+    "last_verified": "2026-06-27T09:06:41Z",
     "confidence": "high",
     "needs_review": false
   },
@@ -5161,7 +5161,7 @@
     "apply_url": "https://www.grants.gov/search-results-detail/359949",
     "source_url": "https://www.grants.gov/search-results-detail/359949",
     "source_type": "api",
-    "last_verified": "2026-06-26T09:53:10Z",
+    "last_verified": "2026-06-27T09:06:41Z",
     "confidence": "high",
     "needs_review": false
   },
@@ -5215,7 +5215,7 @@
     "apply_url": "https://www.grants.gov/search-results-detail/361561",
     "source_url": "https://www.grants.gov/search-results-detail/361561",
     "source_type": "api",
-    "last_verified": "2026-06-26T09:53:10Z",
+    "last_verified": "2026-06-27T09:06:41Z",
     "confidence": "high",
     "needs_review": false
   },
@@ -5233,7 +5233,7 @@
     "apply_url": "https://www.grants.gov/search-results-detail/362372",
     "source_url": "https://www.grants.gov/search-results-detail/362372",
     "source_type": "api",
-    "last_verified": "2026-06-26T09:53:10Z",
+    "last_verified": "2026-06-27T09:06:41Z",
     "confidence": "high",
     "needs_review": false
   },
@@ -5251,7 +5251,7 @@
     "apply_url": "https://www.grants.gov/search-results-detail/358915",
     "source_url": "https://www.grants.gov/search-results-detail/358915",
     "source_type": "api",
-    "last_verified": "2026-06-26T09:53:10Z",
+    "last_verified": "2026-06-27T09:06:41Z",
     "confidence": "high",
     "needs_review": false
   },
@@ -5287,7 +5287,7 @@
     "apply_url": "https://www.grants.gov/search-results-detail/356605",
     "source_url": "https://www.grants.gov/search-results-detail/356605",
     "source_type": "api",
-    "last_verified": "2026-06-26T09:53:10Z",
+    "last_verified": "2026-06-27T09:06:41Z",
     "confidence": "high",
     "needs_review": false
   },
@@ -5323,7 +5323,7 @@
     "apply_url": "https://www.grants.gov/search-results-detail/359656",
     "source_url": "https://www.grants.gov/search-results-detail/359656",
     "source_type": "api",
-    "last_verified": "2026-06-26T09:53:10Z",
+    "last_verified": "2026-06-27T09:06:41Z",
     "confidence": "high",
     "needs_review": false
   },
@@ -5341,7 +5341,7 @@
     "apply_url": "https://www.grants.gov/search-results-detail/359862",
     "source_url": "https://www.grants.gov/search-results-detail/359862",
     "source_type": "api",
-    "last_verified": "2026-06-26T09:53:10Z",
+    "last_verified": "2026-06-27T09:06:41Z",
     "confidence": "high",
     "needs_review": false
   },
@@ -5359,7 +5359,7 @@
     "apply_url": "https://www.grants.gov/search-results-detail/359128",
     "source_url": "https://www.grants.gov/search-results-detail/359128",
     "source_type": "api",
-    "last_verified": "2026-06-26T09:53:10Z",
+    "last_verified": "2026-06-27T09:06:41Z",
     "confidence": "high",
     "needs_review": false
   },
@@ -5395,7 +5395,7 @@
     "apply_url": "https://www.grants.gov/search-results-detail/359892",
     "source_url": "https://www.grants.gov/search-results-detail/359892",
     "source_type": "api",
-    "last_verified": "2026-06-26T09:53:10Z",
+    "last_verified": "2026-06-27T09:06:41Z",
     "confidence": "high",
     "needs_review": false
   },
@@ -5413,7 +5413,7 @@
     "apply_url": "https://www.grants.gov/search-results-detail/360205",
     "source_url": "https://www.grants.gov/search-results-detail/360205",
     "source_type": "api",
-    "last_verified": "2026-06-26T09:53:10Z",
+    "last_verified": "2026-06-27T09:06:41Z",
     "confidence": "high",
     "needs_review": false
   },
@@ -5431,7 +5431,7 @@
     "apply_url": "https://www.grants.gov/search-results-detail/359853",
     "source_url": "https://www.grants.gov/search-results-detail/359853",
     "source_type": "api",
-    "last_verified": "2026-06-26T09:53:10Z",
+    "last_verified": "2026-06-27T09:06:41Z",
     "confidence": "high",
     "needs_review": false
   },
@@ -5449,7 +5449,7 @@
     "apply_url": "https://www.grants.gov/search-results-detail/359855",
     "source_url": "https://www.grants.gov/search-results-detail/359855",
     "source_type": "api",
-    "last_verified": "2026-06-26T09:53:10Z",
+    "last_verified": "2026-06-27T09:06:41Z",
     "confidence": "high",
     "needs_review": false
   },
@@ -5467,7 +5467,7 @@
     "apply_url": "https://www.grants.gov/search-results-detail/359861",
     "source_url": "https://www.grants.gov/search-results-detail/359861",
     "source_type": "api",
-    "last_verified": "2026-06-26T09:53:10Z",
+    "last_verified": "2026-06-27T09:06:41Z",
     "confidence": "high",
     "needs_review": false
   },
@@ -5485,7 +5485,7 @@
     "apply_url": "https://www.grants.gov/search-results-detail/362403",
     "source_url": "https://www.grants.gov/search-results-detail/362403",
     "source_type": "api",
-    "last_verified": "2026-06-26T09:53:10Z",
+    "last_verified": "2026-06-27T09:06:41Z",
     "confidence": "high",
     "needs_review": false
   },
@@ -5503,7 +5503,7 @@
     "apply_url": "https://www.grants.gov/search-results-detail/362494",
     "source_url": "https://www.grants.gov/search-results-detail/362494",
     "source_type": "api",
-    "last_verified": "2026-06-26T09:53:10Z",
+    "last_verified": "2026-06-27T09:06:41Z",
     "confidence": "high",
     "needs_review": false
   },
@@ -5521,7 +5521,7 @@
     "apply_url": "https://www.grants.gov/search-results-detail/361912",
     "source_url": "https://www.grants.gov/search-results-detail/361912",
     "source_type": "api",
-    "last_verified": "2026-06-26T09:53:10Z",
+    "last_verified": "2026-06-27T09:06:41Z",
     "confidence": "high",
     "needs_review": false
   },
@@ -5539,7 +5539,7 @@
     "apply_url": "https://www.grants.gov/search-results-detail/362642",
     "source_url": "https://www.grants.gov/search-results-detail/362642",
     "source_type": "api",
-    "last_verified": "2026-06-26T09:53:10Z",
+    "last_verified": "2026-06-27T09:06:41Z",
     "confidence": "high",
     "needs_review": false
   },
@@ -5557,7 +5557,7 @@
     "apply_url": "https://www.grants.gov/search-results-detail/362678",
     "source_url": "https://www.grants.gov/search-results-detail/362678",
     "source_type": "api",
-    "last_verified": "2026-06-26T09:53:10Z",
+    "last_verified": "2026-06-27T09:06:41Z",
     "confidence": "high",
     "needs_review": false
   },
@@ -5701,7 +5701,7 @@
     "apply_url": "https://www.grants.gov/search-results-detail/361503",
     "source_url": "https://www.grants.gov/search-results-detail/361503",
     "source_type": "api",
-    "last_verified": "2026-06-26T09:53:10Z",
+    "last_verified": "2026-06-27T09:06:41Z",
     "confidence": "high",
     "needs_review": false
   },
@@ -5719,7 +5719,7 @@
     "apply_url": "https://www.grants.gov/search-results-detail/358963",
     "source_url": "https://www.grants.gov/search-results-detail/358963",
     "source_type": "api",
-    "last_verified": "2026-06-26T09:53:10Z",
+    "last_verified": "2026-06-27T09:06:41Z",
     "confidence": "high",
     "needs_review": false
   },
@@ -5737,7 +5737,7 @@
     "apply_url": "https://www.grants.gov/search-results-detail/320753",
     "source_url": "https://www.grants.gov/search-results-detail/320753",
     "source_type": "api",
-    "last_verified": "2026-06-26T09:53:10Z",
+    "last_verified": "2026-06-27T09:06:41Z",
     "confidence": "high",
     "needs_review": false
   },
@@ -5755,7 +5755,7 @@
     "apply_url": "https://www.grants.gov/search-results-detail/353936",
     "source_url": "https://www.grants.gov/search-results-detail/353936",
     "source_type": "api",
-    "last_verified": "2026-06-26T09:53:10Z",
+    "last_verified": "2026-06-27T09:06:41Z",
     "confidence": "high",
     "needs_review": false
   },
@@ -5773,7 +5773,7 @@
     "apply_url": "https://www.grants.gov/search-results-detail/362526",
     "source_url": "https://www.grants.gov/search-results-detail/362526",
     "source_type": "api",
-    "last_verified": "2026-06-26T09:53:10Z",
+    "last_verified": "2026-06-27T09:06:41Z",
     "confidence": "high",
     "needs_review": false
   },
@@ -5791,7 +5791,7 @@
     "apply_url": "https://www.grants.gov/search-results-detail/361249",
     "source_url": "https://www.grants.gov/search-results-detail/361249",
     "source_type": "api",
-    "last_verified": "2026-06-26T09:53:10Z",
+    "last_verified": "2026-06-27T09:06:41Z",
     "confidence": "high",
     "needs_review": false
   },
@@ -5809,7 +5809,7 @@
     "apply_url": "https://www.grants.gov/search-results-detail/358004",
     "source_url": "https://www.grants.gov/search-results-detail/358004",
     "source_type": "api",
-    "last_verified": "2026-06-26T09:53:10Z",
+    "last_verified": "2026-06-27T09:06:41Z",
     "confidence": "high",
     "needs_review": false
   },
@@ -5827,7 +5827,7 @@
     "apply_url": "https://www.grants.gov/search-results-detail/361604",
     "source_url": "https://www.grants.gov/search-results-detail/361604",
     "source_type": "api",
-    "last_verified": "2026-06-26T09:53:10Z",
+    "last_verified": "2026-06-27T09:06:41Z",
     "confidence": "high",
     "needs_review": false
   },
@@ -5863,7 +5863,7 @@
     "apply_url": "https://www.grants.gov/search-results-detail/325932",
     "source_url": "https://www.grants.gov/search-results-detail/325932",
     "source_type": "api",
-    "last_verified": "2026-06-26T09:53:10Z",
+    "last_verified": "2026-06-27T09:06:41Z",
     "confidence": "high",
     "needs_review": false
   },
@@ -5881,7 +5881,7 @@
     "apply_url": "https://www.grants.gov/search-results-detail/360499",
     "source_url": "https://www.grants.gov/search-results-detail/360499",
     "source_type": "api",
-    "last_verified": "2026-06-26T09:53:10Z",
+    "last_verified": "2026-06-27T09:06:41Z",
     "confidence": "high",
     "needs_review": false
   },
@@ -5899,7 +5899,7 @@
     "apply_url": "https://www.grants.gov/search-results-detail/359003",
     "source_url": "https://www.grants.gov/search-results-detail/359003",
     "source_type": "api",
-    "last_verified": "2026-06-26T09:53:10Z",
+    "last_verified": "2026-06-27T09:06:41Z",
     "confidence": "high",
     "needs_review": false
   },
@@ -5917,7 +5917,7 @@
     "apply_url": "https://www.grants.gov/search-results-detail/359123",
     "source_url": "https://www.grants.gov/search-results-detail/359123",
     "source_type": "api",
-    "last_verified": "2026-06-26T09:53:10Z",
+    "last_verified": "2026-06-27T09:06:41Z",
     "confidence": "high",
     "needs_review": false
   },
@@ -5935,7 +5935,7 @@
     "apply_url": "https://www.grants.gov/search-results-detail/358864",
     "source_url": "https://www.grants.gov/search-results-detail/358864",
     "source_type": "api",
-    "last_verified": "2026-06-26T09:53:10Z",
+    "last_verified": "2026-06-27T09:06:41Z",
     "confidence": "high",
     "needs_review": false
   },
@@ -5971,7 +5971,7 @@
     "apply_url": "https://www.grants.gov/search-results-detail/361035",
     "source_url": "https://www.grants.gov/search-results-detail/361035",
     "source_type": "api",
-    "last_verified": "2026-06-26T09:53:10Z",
+    "last_verified": "2026-06-27T09:06:41Z",
     "confidence": "high",
     "needs_review": false
   },
@@ -5989,7 +5989,7 @@
     "apply_url": "https://www.grants.gov/search-results-detail/361693",
     "source_url": "https://www.grants.gov/search-results-detail/361693",
     "source_type": "api",
-    "last_verified": "2026-06-26T09:53:10Z",
+    "last_verified": "2026-06-27T09:06:41Z",
     "confidence": "high",
     "needs_review": false
   },
@@ -6025,7 +6025,7 @@
     "apply_url": "https://www.grants.gov/search-results-detail/361867",
     "source_url": "https://www.grants.gov/search-results-detail/361867",
     "source_type": "api",
-    "last_verified": "2026-06-26T09:53:10Z",
+    "last_verified": "2026-06-27T09:06:41Z",
     "confidence": "high",
     "needs_review": false
   },
@@ -6043,7 +6043,7 @@
     "apply_url": "https://www.grants.gov/search-results-detail/362259",
     "source_url": "https://www.grants.gov/search-results-detail/362259",
     "source_type": "api",
-    "last_verified": "2026-06-26T09:53:10Z",
+    "last_verified": "2026-06-27T09:06:41Z",
     "confidence": "high",
     "needs_review": false
   },
@@ -6061,7 +6061,7 @@
     "apply_url": "https://www.grants.gov/search-results-detail/362360",
     "source_url": "https://www.grants.gov/search-results-detail/362360",
     "source_type": "api",
-    "last_verified": "2026-06-26T09:53:10Z",
+    "last_verified": "2026-06-27T09:06:41Z",
     "confidence": "high",
     "needs_review": false
   },
@@ -6079,7 +6079,7 @@
     "apply_url": "https://www.grants.gov/search-results-detail/362626",
     "source_url": "https://www.grants.gov/search-results-detail/362626",
     "source_type": "api",
-    "last_verified": "2026-06-26T09:53:10Z",
+    "last_verified": "2026-06-27T09:06:41Z",
     "confidence": "high",
     "needs_review": false
   },
@@ -6097,7 +6097,7 @@
     "apply_url": "https://www.grants.gov/search-results-detail/362904",
     "source_url": "https://www.grants.gov/search-results-detail/362904",
     "source_type": "api",
-    "last_verified": "2026-06-26T09:53:10Z",
+    "last_verified": "2026-06-27T09:06:41Z",
     "confidence": "high",
     "needs_review": false
   },
@@ -6115,7 +6115,7 @@
     "apply_url": "https://www.grants.gov/search-results-detail/362029",
     "source_url": "https://www.grants.gov/search-results-detail/362029",
     "source_type": "api",
-    "last_verified": "2026-06-26T09:53:10Z",
+    "last_verified": "2026-06-27T09:06:41Z",
     "confidence": "high",
     "needs_review": false
   },
@@ -6133,7 +6133,7 @@
     "apply_url": "https://www.grants.gov/search-results-detail/351404",
     "source_url": "https://www.grants.gov/search-results-detail/351404",
     "source_type": "api",
-    "last_verified": "2026-06-26T09:53:10Z",
+    "last_verified": "2026-06-27T09:06:41Z",
     "confidence": "high",
     "needs_review": false
   },
@@ -6169,7 +6169,7 @@
     "apply_url": "https://www.grants.gov/search-results-detail/362692",
     "source_url": "https://www.grants.gov/search-results-detail/362692",
     "source_type": "api",
-    "last_verified": "2026-06-26T09:53:10Z",
+    "last_verified": "2026-06-27T09:06:41Z",
     "confidence": "high",
     "needs_review": false
   },
@@ -6187,7 +6187,7 @@
     "apply_url": "https://www.grants.gov/search-results-detail/362310",
     "source_url": "https://www.grants.gov/search-results-detail/362310",
     "source_type": "api",
-    "last_verified": "2026-06-26T09:53:10Z",
+    "last_verified": "2026-06-27T09:06:41Z",
     "confidence": "high",
     "needs_review": false
   },
@@ -6223,7 +6223,7 @@
     "apply_url": "https://www.grants.gov/search-results-detail/362308",
     "source_url": "https://www.grants.gov/search-results-detail/362308",
     "source_type": "api",
-    "last_verified": "2026-06-26T09:53:10Z",
+    "last_verified": "2026-06-27T09:06:41Z",
     "confidence": "high",
     "needs_review": false
   },
@@ -6241,7 +6241,7 @@
     "apply_url": "https://www.grants.gov/search-results-detail/359061",
     "source_url": "https://www.grants.gov/search-results-detail/359061",
     "source_type": "api",
-    "last_verified": "2026-06-26T09:53:10Z",
+    "last_verified": "2026-06-27T09:06:41Z",
     "confidence": "high",
     "needs_review": false
   },
@@ -6259,7 +6259,7 @@
     "apply_url": "https://www.grants.gov/search-results-detail/361333",
     "source_url": "https://www.grants.gov/search-results-detail/361333",
     "source_type": "api",
-    "last_verified": "2026-06-26T09:53:10Z",
+    "last_verified": "2026-06-27T09:06:41Z",
     "confidence": "high",
     "needs_review": false
   },
@@ -6277,7 +6277,7 @@
     "apply_url": "https://www.grants.gov/search-results-detail/361009",
     "source_url": "https://www.grants.gov/search-results-detail/361009",
     "source_type": "api",
-    "last_verified": "2026-06-26T09:53:10Z",
+    "last_verified": "2026-06-27T09:06:41Z",
     "confidence": "high",
     "needs_review": false
   },
@@ -6295,7 +6295,7 @@
     "apply_url": "https://www.grants.gov/search-results-detail/361238",
     "source_url": "https://www.grants.gov/search-results-detail/361238",
     "source_type": "api",
-    "last_verified": "2026-06-26T09:53:10Z",
+    "last_verified": "2026-06-27T09:06:41Z",
     "confidence": "high",
     "needs_review": false
   },
@@ -6313,7 +6313,7 @@
     "apply_url": "https://www.grants.gov/search-results-detail/353413",
     "source_url": "https://www.grants.gov/search-results-detail/353413",
     "source_type": "api",
-    "last_verified": "2026-06-26T09:53:10Z",
+    "last_verified": "2026-06-27T09:06:41Z",
     "confidence": "high",
     "needs_review": false
   },
@@ -6331,7 +6331,7 @@
     "apply_url": "https://www.grants.gov/search-results-detail/361664",
     "source_url": "https://www.grants.gov/search-results-detail/361664",
     "source_type": "api",
-    "last_verified": "2026-06-26T09:53:10Z",
+    "last_verified": "2026-06-27T09:06:41Z",
     "confidence": "high",
     "needs_review": false
   },
@@ -6349,7 +6349,7 @@
     "apply_url": "https://www.grants.gov/search-results-detail/324456",
     "source_url": "https://www.grants.gov/search-results-detail/324456",
     "source_type": "api",
-    "last_verified": "2026-06-26T09:53:10Z",
+    "last_verified": "2026-06-27T09:06:41Z",
     "confidence": "high",
     "needs_review": false
   },
@@ -6367,7 +6367,7 @@
     "apply_url": "https://www.grants.gov/search-results-detail/329436",
     "source_url": "https://www.grants.gov/search-results-detail/329436",
     "source_type": "api",
-    "last_verified": "2026-06-26T09:53:10Z",
+    "last_verified": "2026-06-27T09:06:41Z",
     "confidence": "high",
     "needs_review": false
   },
@@ -6385,7 +6385,7 @@
     "apply_url": "https://www.grants.gov/search-results-detail/362396",
     "source_url": "https://www.grants.gov/search-results-detail/362396",
     "source_type": "api",
-    "last_verified": "2026-06-26T09:53:10Z",
+    "last_verified": "2026-06-27T09:06:41Z",
     "confidence": "high",
     "needs_review": false
   },
@@ -6403,7 +6403,7 @@
     "apply_url": "https://www.grants.gov/search-results-detail/351715",
     "source_url": "https://www.grants.gov/search-results-detail/351715",
     "source_type": "api",
-    "last_verified": "2026-06-26T09:53:10Z",
+    "last_verified": "2026-06-27T09:06:41Z",
     "confidence": "high",
     "needs_review": false
   },
@@ -6421,7 +6421,7 @@
     "apply_url": "https://www.grants.gov/search-results-detail/362055",
     "source_url": "https://www.grants.gov/search-results-detail/362055",
     "source_type": "api",
-    "last_verified": "2026-06-26T09:53:10Z",
+    "last_verified": "2026-06-27T09:06:41Z",
     "confidence": "high",
     "needs_review": false
   },
@@ -6439,7 +6439,7 @@
     "apply_url": "https://www.grants.gov/search-results-detail/362158",
     "source_url": "https://www.grants.gov/search-results-detail/362158",
     "source_type": "api",
-    "last_verified": "2026-06-26T09:53:10Z",
+    "last_verified": "2026-06-27T09:06:41Z",
     "confidence": "high",
     "needs_review": false
   },
@@ -6457,7 +6457,7 @@
     "apply_url": "https://www.grants.gov/search-results-detail/362159",
     "source_url": "https://www.grants.gov/search-results-detail/362159",
     "source_type": "api",
-    "last_verified": "2026-06-26T09:53:10Z",
+    "last_verified": "2026-06-27T09:06:41Z",
     "confidence": "high",
     "needs_review": false
   },
@@ -6493,7 +6493,7 @@
     "apply_url": "https://www.grants.gov/search-results-detail/351567",
     "source_url": "https://www.grants.gov/search-results-detail/351567",
     "source_type": "api",
-    "last_verified": "2026-06-26T09:53:10Z",
+    "last_verified": "2026-06-27T09:06:41Z",
     "confidence": "high",
     "needs_review": false
   },
@@ -6529,7 +6529,7 @@
     "apply_url": "https://www.grants.gov/search-results-detail/356623",
     "source_url": "https://www.grants.gov/search-results-detail/356623",
     "source_type": "api",
-    "last_verified": "2026-06-26T09:53:10Z",
+    "last_verified": "2026-06-27T09:06:41Z",
     "confidence": "high",
     "needs_review": false
   },
@@ -6547,7 +6547,7 @@
     "apply_url": "https://www.grants.gov/search-results-detail/361628",
     "source_url": "https://www.grants.gov/search-results-detail/361628",
     "source_type": "api",
-    "last_verified": "2026-06-26T09:53:10Z",
+    "last_verified": "2026-06-27T09:06:41Z",
     "confidence": "high",
     "needs_review": false
   },
@@ -6583,7 +6583,7 @@
     "apply_url": "https://www.grants.gov/search-results-detail/362648",
     "source_url": "https://www.grants.gov/search-results-detail/362648",
     "source_type": "api",
-    "last_verified": "2026-06-26T09:53:10Z",
+    "last_verified": "2026-06-27T09:06:41Z",
     "confidence": "high",
     "needs_review": false
   },
@@ -6655,7 +6655,7 @@
     "apply_url": "https://www.grants.gov/search-results-detail/360678",
     "source_url": "https://www.grants.gov/search-results-detail/360678",
     "source_type": "api",
-    "last_verified": "2026-06-26T09:53:10Z",
+    "last_verified": "2026-06-27T09:06:41Z",
     "confidence": "high",
     "needs_review": false
   },
@@ -6691,7 +6691,7 @@
     "apply_url": "https://www.grants.gov/search-results-detail/361309",
     "source_url": "https://www.grants.gov/search-results-detail/361309",
     "source_type": "api",
-    "last_verified": "2026-06-26T09:53:10Z",
+    "last_verified": "2026-06-27T09:06:41Z",
     "confidence": "high",
     "needs_review": false
   },
@@ -6709,7 +6709,7 @@
     "apply_url": "https://www.grants.gov/search-results-detail/358100",
     "source_url": "https://www.grants.gov/search-results-detail/358100",
     "source_type": "api",
-    "last_verified": "2026-06-26T09:53:10Z",
+    "last_verified": "2026-06-27T09:06:41Z",
     "confidence": "high",
     "needs_review": false
   },
@@ -6745,7 +6745,7 @@
     "apply_url": "https://www.grants.gov/search-results-detail/361773",
     "source_url": "https://www.grants.gov/search-results-detail/361773",
     "source_type": "api",
-    "last_verified": "2026-06-26T09:53:10Z",
+    "last_verified": "2026-06-27T09:06:41Z",
     "confidence": "high",
     "needs_review": false
   },
@@ -6781,7 +6781,7 @@
     "apply_url": "https://www.grants.gov/search-results-detail/356559",
     "source_url": "https://www.grants.gov/search-results-detail/356559",
     "source_type": "api",
-    "last_verified": "2026-06-26T09:53:10Z",
+    "last_verified": "2026-06-27T09:06:41Z",
     "confidence": "high",
     "needs_review": false
   },
@@ -6799,7 +6799,7 @@
     "apply_url": "https://www.grants.gov/search-results-detail/348830",
     "source_url": "https://www.grants.gov/search-results-detail/348830",
     "source_type": "api",
-    "last_verified": "2026-06-26T09:53:10Z",
+    "last_verified": "2026-06-27T09:06:41Z",
     "confidence": "high",
     "needs_review": false
   },
@@ -6817,7 +6817,7 @@
     "apply_url": "https://www.grants.gov/search-results-detail/362426",
     "source_url": "https://www.grants.gov/search-results-detail/362426",
     "source_type": "api",
-    "last_verified": "2026-06-26T09:53:10Z",
+    "last_verified": "2026-06-27T09:06:41Z",
     "confidence": "high",
     "needs_review": false
   },
@@ -6835,7 +6835,7 @@
     "apply_url": "https://www.grants.gov/search-results-detail/362644",
     "source_url": "https://www.grants.gov/search-results-detail/362644",
     "source_type": "api",
-    "last_verified": "2026-06-26T09:53:10Z",
+    "last_verified": "2026-06-27T09:06:41Z",
     "confidence": "high",
     "needs_review": false
   },
@@ -6853,7 +6853,7 @@
     "apply_url": "https://www.grants.gov/search-results-detail/362148",
     "source_url": "https://www.grants.gov/search-results-detail/362148",
     "source_type": "api",
-    "last_verified": "2026-06-26T09:53:10Z",
+    "last_verified": "2026-06-27T09:06:41Z",
     "confidence": "high",
     "needs_review": false
   },
@@ -6871,7 +6871,7 @@
     "apply_url": "https://www.grants.gov/search-results-detail/362395",
     "source_url": "https://www.grants.gov/search-results-detail/362395",
     "source_type": "api",
-    "last_verified": "2026-06-26T09:53:10Z",
+    "last_verified": "2026-06-27T09:06:41Z",
     "confidence": "high",
     "needs_review": false
   },
@@ -6889,7 +6889,7 @@
     "apply_url": "https://www.grants.gov/search-results-detail/362394",
     "source_url": "https://www.grants.gov/search-results-detail/362394",
     "source_type": "api",
-    "last_verified": "2026-06-26T09:53:10Z",
+    "last_verified": "2026-06-27T09:06:41Z",
     "confidence": "high",
     "needs_review": false
   },
@@ -6907,7 +6907,7 @@
     "apply_url": "https://www.grants.gov/search-results-detail/361417",
     "source_url": "https://www.grants.gov/search-results-detail/361417",
     "source_type": "api",
-    "last_verified": "2026-06-26T09:53:10Z",
+    "last_verified": "2026-06-27T09:06:41Z",
     "confidence": "high",
     "needs_review": false
   },
@@ -6943,7 +6943,7 @@
     "apply_url": "https://www.grants.gov/search-results-detail/360262",
     "source_url": "https://www.grants.gov/search-results-detail/360262",
     "source_type": "api",
-    "last_verified": "2026-06-26T09:53:10Z",
+    "last_verified": "2026-06-27T09:06:41Z",
     "confidence": "high",
     "needs_review": false
   },
@@ -6979,7 +6979,7 @@
     "apply_url": "https://www.grants.gov/search-results-detail/360012",
     "source_url": "https://www.grants.gov/search-results-detail/360012",
     "source_type": "api",
-    "last_verified": "2026-06-26T09:53:10Z",
+    "last_verified": "2026-06-27T09:06:41Z",
     "confidence": "high",
     "needs_review": false
   },
@@ -6997,7 +6997,7 @@
     "apply_url": "https://www.grants.gov/search-results-detail/356610",
     "source_url": "https://www.grants.gov/search-results-detail/356610",
     "source_type": "api",
-    "last_verified": "2026-06-26T09:53:10Z",
+    "last_verified": "2026-06-27T09:06:41Z",
     "confidence": "high",
     "needs_review": false
   },
@@ -7015,7 +7015,7 @@
     "apply_url": "https://www.grants.gov/search-results-detail/357424",
     "source_url": "https://www.grants.gov/search-results-detail/357424",
     "source_type": "api",
-    "last_verified": "2026-06-26T09:53:10Z",
+    "last_verified": "2026-06-27T09:06:41Z",
     "confidence": "high",
     "needs_review": false
   },
@@ -7033,7 +7033,7 @@
     "apply_url": "https://www.grants.gov/search-results-detail/360258",
     "source_url": "https://www.grants.gov/search-results-detail/360258",
     "source_type": "api",
-    "last_verified": "2026-06-26T09:53:10Z",
+    "last_verified": "2026-06-27T09:06:41Z",
     "confidence": "high",
     "needs_review": false
   },
@@ -7051,7 +7051,7 @@
     "apply_url": "https://www.grants.gov/search-results-detail/361169",
     "source_url": "https://www.grants.gov/search-results-detail/361169",
     "source_type": "api",
-    "last_verified": "2026-06-26T09:53:10Z",
+    "last_verified": "2026-06-27T09:06:41Z",
     "confidence": "high",
     "needs_review": false
   },
@@ -7069,7 +7069,7 @@
     "apply_url": "https://www.grants.gov/search-results-detail/344592",
     "source_url": "https://www.grants.gov/search-results-detail/344592",
     "source_type": "api",
-    "last_verified": "2026-06-26T09:53:10Z",
+    "last_verified": "2026-06-27T09:06:41Z",
     "confidence": "high",
     "needs_review": false
   },
@@ -7087,7 +7087,7 @@
     "apply_url": "https://www.grants.gov/search-results-detail/358674",
     "source_url": "https://www.grants.gov/search-results-detail/358674",
     "source_type": "api",
-    "last_verified": "2026-06-26T09:53:10Z",
+    "last_verified": "2026-06-27T09:06:41Z",
     "confidence": "high",
     "needs_review": false
   },
@@ -7105,7 +7105,7 @@
     "apply_url": "https://www.grants.gov/search-results-detail/362673",
     "source_url": "https://www.grants.gov/search-results-detail/362673",
     "source_type": "api",
-    "last_verified": "2026-06-26T09:53:10Z",
+    "last_verified": "2026-06-27T09:06:41Z",
     "confidence": "high",
     "needs_review": false
   },
@@ -7141,7 +7141,7 @@
     "apply_url": "https://www.grants.gov/search-results-detail/338821",
     "source_url": "https://www.grants.gov/search-results-detail/338821",
     "source_type": "api",
-    "last_verified": "2026-06-26T09:53:10Z",
+    "last_verified": "2026-06-27T09:06:41Z",
     "confidence": "high",
     "needs_review": false
   },
@@ -7159,7 +7159,7 @@
     "apply_url": "https://www.grants.gov/search-results-detail/359132",
     "source_url": "https://www.grants.gov/search-results-detail/359132",
     "source_type": "api",
-    "last_verified": "2026-06-26T09:53:10Z",
+    "last_verified": "2026-06-27T09:06:41Z",
     "confidence": "high",
     "needs_review": false
   },
@@ -7177,7 +7177,7 @@
     "apply_url": "https://www.grants.gov/search-results-detail/358964",
     "source_url": "https://www.grants.gov/search-results-detail/358964",
     "source_type": "api",
-    "last_verified": "2026-06-26T09:53:10Z",
+    "last_verified": "2026-06-27T09:06:41Z",
     "confidence": "high",
     "needs_review": false
   },
@@ -7195,7 +7195,7 @@
     "apply_url": "https://www.grants.gov/search-results-detail/362309",
     "source_url": "https://www.grants.gov/search-results-detail/362309",
     "source_type": "api",
-    "last_verified": "2026-06-26T09:53:10Z",
+    "last_verified": "2026-06-27T09:06:41Z",
     "confidence": "high",
     "needs_review": false
   },
@@ -7213,7 +7213,7 @@
     "apply_url": "https://www.grants.gov/search-results-detail/362252",
     "source_url": "https://www.grants.gov/search-results-detail/362252",
     "source_type": "api",
-    "last_verified": "2026-06-26T09:53:10Z",
+    "last_verified": "2026-06-27T09:06:41Z",
     "confidence": "high",
     "needs_review": false
   },
@@ -7231,7 +7231,7 @@
     "apply_url": "https://www.grants.gov/search-results-detail/359133",
     "source_url": "https://www.grants.gov/search-results-detail/359133",
     "source_type": "api",
-    "last_verified": "2026-06-26T09:53:10Z",
+    "last_verified": "2026-06-27T09:06:41Z",
     "confidence": "high",
     "needs_review": false
   },
@@ -7249,7 +7249,7 @@
     "apply_url": "https://www.grants.gov/search-results-detail/345938",
     "source_url": "https://www.grants.gov/search-results-detail/345938",
     "source_type": "api",
-    "last_verified": "2026-06-26T09:53:10Z",
+    "last_verified": "2026-06-27T09:06:41Z",
     "confidence": "high",
     "needs_review": false
   },
@@ -7267,7 +7267,7 @@
     "apply_url": "https://www.grants.gov/search-results-detail/362210",
     "source_url": "https://www.grants.gov/search-results-detail/362210",
     "source_type": "api",
-    "last_verified": "2026-06-26T09:53:10Z",
+    "last_verified": "2026-06-27T09:06:41Z",
     "confidence": "high",
     "needs_review": false
   },
@@ -7285,7 +7285,7 @@
     "apply_url": "https://www.grants.gov/search-results-detail/355150",
     "source_url": "https://www.grants.gov/search-results-detail/355150",
     "source_type": "api",
-    "last_verified": "2026-06-26T09:53:10Z",
+    "last_verified": "2026-06-27T09:06:41Z",
     "confidence": "high",
     "needs_review": false
   },
@@ -7303,7 +7303,7 @@
     "apply_url": "https://www.grants.gov/search-results-detail/360698",
     "source_url": "https://www.grants.gov/search-results-detail/360698",
     "source_type": "api",
-    "last_verified": "2026-06-26T09:53:10Z",
+    "last_verified": "2026-06-27T09:06:41Z",
     "confidence": "high",
     "needs_review": false
   },
@@ -7321,7 +7321,7 @@
     "apply_url": "https://www.grants.gov/search-results-detail/349554",
     "source_url": "https://www.grants.gov/search-results-detail/349554",
     "source_type": "api",
-    "last_verified": "2026-06-26T09:53:10Z",
+    "last_verified": "2026-06-27T09:06:41Z",
     "confidence": "high",
     "needs_review": false
   },
@@ -7339,7 +7339,7 @@
     "apply_url": "https://www.grants.gov/search-results-detail/343725",
     "source_url": "https://www.grants.gov/search-results-detail/343725",
     "source_type": "api",
-    "last_verified": "2026-06-26T09:53:10Z",
+    "last_verified": "2026-06-27T09:06:41Z",
     "confidence": "high",
     "needs_review": false
   },
@@ -7357,7 +7357,7 @@
     "apply_url": "https://www.grants.gov/search-results-detail/356612",
     "source_url": "https://www.grants.gov/search-results-detail/356612",
     "source_type": "api",
-    "last_verified": "2026-06-26T09:53:10Z",
+    "last_verified": "2026-06-27T09:06:41Z",
     "confidence": "high",
     "needs_review": false
   },
@@ -7375,7 +7375,7 @@
     "apply_url": "https://www.grants.gov/search-results-detail/355100",
     "source_url": "https://www.grants.gov/search-results-detail/355100",
     "source_type": "api",
-    "last_verified": "2026-06-26T09:53:10Z",
+    "last_verified": "2026-06-27T09:06:41Z",
     "confidence": "high",
     "needs_review": false
   },
@@ -7393,7 +7393,7 @@
     "apply_url": "https://www.grants.gov/search-results-detail/350338",
     "source_url": "https://www.grants.gov/search-results-detail/350338",
     "source_type": "api",
-    "last_verified": "2026-06-26T09:53:10Z",
+    "last_verified": "2026-06-27T09:06:41Z",
     "confidence": "high",
     "needs_review": false
   },
@@ -7447,7 +7447,7 @@
     "apply_url": "https://www.grants.gov/search-results-detail/358823",
     "source_url": "https://www.grants.gov/search-results-detail/358823",
     "source_type": "api",
-    "last_verified": "2026-06-26T09:53:10Z",
+    "last_verified": "2026-06-27T09:06:41Z",
     "confidence": "high",
     "needs_review": false
   },
@@ -7465,7 +7465,7 @@
     "apply_url": "https://www.grants.gov/search-results-detail/358930",
     "source_url": "https://www.grants.gov/search-results-detail/358930",
     "source_type": "api",
-    "last_verified": "2026-06-26T09:53:10Z",
+    "last_verified": "2026-06-27T09:06:41Z",
     "confidence": "high",
     "needs_review": false
   },
@@ -7483,7 +7483,7 @@
     "apply_url": "https://www.grants.gov/search-results-detail/356531",
     "source_url": "https://www.grants.gov/search-results-detail/356531",
     "source_type": "api",
-    "last_verified": "2026-06-26T09:53:10Z",
+    "last_verified": "2026-06-27T09:06:41Z",
     "confidence": "high",
     "needs_review": false
   },
@@ -7501,7 +7501,7 @@
     "apply_url": "https://www.grants.gov/search-results-detail/357529",
     "source_url": "https://www.grants.gov/search-results-detail/357529",
     "source_type": "api",
-    "last_verified": "2026-06-26T09:53:10Z",
+    "last_verified": "2026-06-27T09:06:41Z",
     "confidence": "high",
     "needs_review": false
   },
@@ -7519,7 +7519,7 @@
     "apply_url": "https://www.grants.gov/search-results-detail/344608",
     "source_url": "https://www.grants.gov/search-results-detail/344608",
     "source_type": "api",
-    "last_verified": "2026-06-26T09:53:10Z",
+    "last_verified": "2026-06-27T09:06:41Z",
     "confidence": "high",
     "needs_review": false
   },
@@ -7537,7 +7537,7 @@
     "apply_url": "https://www.grants.gov/search-results-detail/362623",
     "source_url": "https://www.grants.gov/search-results-detail/362623",
     "source_type": "api",
-    "last_verified": "2026-06-26T09:53:10Z",
+    "last_verified": "2026-06-27T09:06:41Z",
     "confidence": "high",
     "needs_review": false
   },
@@ -7555,7 +7555,7 @@
     "apply_url": "https://www.grants.gov/search-results-detail/362694",
     "source_url": "https://www.grants.gov/search-results-detail/362694",
     "source_type": "api",
-    "last_verified": "2026-06-26T09:53:10Z",
+    "last_verified": "2026-06-27T09:06:41Z",
     "confidence": "high",
     "needs_review": false
   },
@@ -7573,7 +7573,7 @@
     "apply_url": "https://www.grants.gov/search-results-detail/359696",
     "source_url": "https://www.grants.gov/search-results-detail/359696",
     "source_type": "api",
-    "last_verified": "2026-06-26T09:53:10Z",
+    "last_verified": "2026-06-27T09:06:41Z",
     "confidence": "high",
     "needs_review": false
   },
@@ -7591,7 +7591,7 @@
     "apply_url": "https://www.grants.gov/search-results-detail/345241",
     "source_url": "https://www.grants.gov/search-results-detail/345241",
     "source_type": "api",
-    "last_verified": "2026-06-26T09:53:10Z",
+    "last_verified": "2026-06-27T09:06:41Z",
     "confidence": "high",
     "needs_review": false
   },
@@ -7609,7 +7609,7 @@
     "apply_url": "https://www.grants.gov/search-results-detail/347858",
     "source_url": "https://www.grants.gov/search-results-detail/347858",
     "source_type": "api",
-    "last_verified": "2026-06-26T09:53:10Z",
+    "last_verified": "2026-06-27T09:06:41Z",
     "confidence": "high",
     "needs_review": false
   },
@@ -7627,7 +7627,7 @@
     "apply_url": "https://www.grants.gov/search-results-detail/357568",
     "source_url": "https://www.grants.gov/search-results-detail/357568",
     "source_type": "api",
-    "last_verified": "2026-06-26T09:53:10Z",
+    "last_verified": "2026-06-27T09:06:41Z",
     "confidence": "high",
     "needs_review": false
   },
@@ -7645,7 +7645,7 @@
     "apply_url": "https://www.grants.gov/search-results-detail/361915",
     "source_url": "https://www.grants.gov/search-results-detail/361915",
     "source_type": "api",
-    "last_verified": "2026-06-26T09:53:10Z",
+    "last_verified": "2026-06-27T09:06:41Z",
     "confidence": "high",
     "needs_review": false
   },
@@ -7663,7 +7663,7 @@
     "apply_url": "https://www.grants.gov/search-results-detail/362695",
     "source_url": "https://www.grants.gov/search-results-detail/362695",
     "source_type": "api",
-    "last_verified": "2026-06-26T09:53:10Z",
+    "last_verified": "2026-06-27T09:06:41Z",
     "confidence": "high",
     "needs_review": false
   },
@@ -7681,7 +7681,7 @@
     "apply_url": "https://www.grants.gov/search-results-detail/343166",
     "source_url": "https://www.grants.gov/search-results-detail/343166",
     "source_type": "api",
-    "last_verified": "2026-06-26T09:53:10Z",
+    "last_verified": "2026-06-27T09:06:41Z",
     "confidence": "high",
     "needs_review": false
   },
@@ -7699,7 +7699,7 @@
     "apply_url": "https://www.grants.gov/search-results-detail/362302",
     "source_url": "https://www.grants.gov/search-results-detail/362302",
     "source_type": "api",
-    "last_verified": "2026-06-26T09:53:10Z",
+    "last_verified": "2026-06-27T09:06:41Z",
     "confidence": "high",
     "needs_review": false
   },
@@ -7717,7 +7717,7 @@
     "apply_url": "https://www.grants.gov/search-results-detail/362530",
     "source_url": "https://www.grants.gov/search-results-detail/362530",
     "source_type": "api",
-    "last_verified": "2026-06-26T09:53:10Z",
+    "last_verified": "2026-06-27T09:06:41Z",
     "confidence": "high",
     "needs_review": false
   },
@@ -7735,7 +7735,7 @@
     "apply_url": "https://www.grants.gov/search-results-detail/362187",
     "source_url": "https://www.grants.gov/search-results-detail/362187",
     "source_type": "api",
-    "last_verified": "2026-06-26T09:53:10Z",
+    "last_verified": "2026-06-27T09:06:41Z",
     "confidence": "high",
     "needs_review": false
   },
@@ -7753,7 +7753,7 @@
     "apply_url": "https://www.grants.gov/search-results-detail/362227",
     "source_url": "https://www.grants.gov/search-results-detail/362227",
     "source_type": "api",
-    "last_verified": "2026-06-26T09:53:10Z",
+    "last_verified": "2026-06-27T09:06:41Z",
     "confidence": "high",
     "needs_review": false
   },
@@ -7771,7 +7771,7 @@
     "apply_url": "https://www.grants.gov/search-results-detail/361934",
     "source_url": "https://www.grants.gov/search-results-detail/361934",
     "source_type": "api",
-    "last_verified": "2026-06-26T09:53:10Z",
+    "last_verified": "2026-06-27T09:06:41Z",
     "confidence": "high",
     "needs_review": false
   },
@@ -7789,7 +7789,7 @@
     "apply_url": "https://www.grants.gov/search-results-detail/362119",
     "source_url": "https://www.grants.gov/search-results-detail/362119",
     "source_type": "api",
-    "last_verified": "2026-06-26T09:53:10Z",
+    "last_verified": "2026-06-27T09:06:41Z",
     "confidence": "high",
     "needs_review": false
   },
@@ -7807,7 +7807,7 @@
     "apply_url": "https://www.grants.gov/search-results-detail/357339",
     "source_url": "https://www.grants.gov/search-results-detail/357339",
     "source_type": "api",
-    "last_verified": "2026-06-26T09:53:10Z",
+    "last_verified": "2026-06-27T09:06:41Z",
     "confidence": "high",
     "needs_review": false
   },
@@ -7825,7 +7825,7 @@
     "apply_url": "https://www.grants.gov/search-results-detail/355211",
     "source_url": "https://www.grants.gov/search-results-detail/355211",
     "source_type": "api",
-    "last_verified": "2026-06-26T09:53:10Z",
+    "last_verified": "2026-06-27T09:06:41Z",
     "confidence": "high",
     "needs_review": false
   },
@@ -7843,7 +7843,7 @@
     "apply_url": "https://www.grants.gov/search-results-detail/357340",
     "source_url": "https://www.grants.gov/search-results-detail/357340",
     "source_type": "api",
-    "last_verified": "2026-06-26T09:53:10Z",
+    "last_verified": "2026-06-27T09:06:41Z",
     "confidence": "high",
     "needs_review": false
   },
@@ -7861,7 +7861,7 @@
     "apply_url": "https://www.grants.gov/search-results-detail/357330",
     "source_url": "https://www.grants.gov/search-results-detail/357330",
     "source_type": "api",
-    "last_verified": "2026-06-26T09:53:10Z",
+    "last_verified": "2026-06-27T09:06:41Z",
     "confidence": "high",
     "needs_review": false
   },
@@ -7897,7 +7897,7 @@
     "apply_url": "https://www.grants.gov/search-results-detail/362407",
     "source_url": "https://www.grants.gov/search-results-detail/362407",
     "source_type": "api",
-    "last_verified": "2026-06-26T09:53:10Z",
+    "last_verified": "2026-06-27T09:06:41Z",
     "confidence": "high",
     "needs_review": false
   },
@@ -7915,7 +7915,7 @@
     "apply_url": "https://www.grants.gov/search-results-detail/362564",
     "source_url": "https://www.grants.gov/search-results-detail/362564",
     "source_type": "api",
-    "last_verified": "2026-06-26T09:53:10Z",
+    "last_verified": "2026-06-27T09:06:41Z",
     "confidence": "high",
     "needs_review": false
   },
@@ -7933,7 +7933,7 @@
     "apply_url": "https://www.grants.gov/search-results-detail/362359",
     "source_url": "https://www.grants.gov/search-results-detail/362359",
     "source_type": "api",
-    "last_verified": "2026-06-26T09:53:10Z",
+    "last_verified": "2026-06-27T09:06:41Z",
     "confidence": "high",
     "needs_review": false
   },
@@ -7951,7 +7951,7 @@
     "apply_url": "https://www.grants.gov/search-results-detail/362503",
     "source_url": "https://www.grants.gov/search-results-detail/362503",
     "source_type": "api",
-    "last_verified": "2026-06-26T09:53:10Z",
+    "last_verified": "2026-06-27T09:06:41Z",
     "confidence": "high",
     "needs_review": false
   },
@@ -7987,7 +7987,7 @@
     "apply_url": "https://www.grants.gov/search-results-detail/362430",
     "source_url": "https://www.grants.gov/search-results-detail/362430",
     "source_type": "api",
-    "last_verified": "2026-06-26T09:53:10Z",
+    "last_verified": "2026-06-27T09:06:41Z",
     "confidence": "high",
     "needs_review": false
   },
@@ -8023,7 +8023,7 @@
     "apply_url": "https://www.grants.gov/search-results-detail/362120",
     "source_url": "https://www.grants.gov/search-results-detail/362120",
     "source_type": "api",
-    "last_verified": "2026-06-26T09:53:10Z",
+    "last_verified": "2026-06-27T09:06:41Z",
     "confidence": "high",
     "needs_review": false
   },
@@ -8041,7 +8041,7 @@
     "apply_url": "https://www.grants.gov/search-results-detail/361373",
     "source_url": "https://www.grants.gov/search-results-detail/361373",
     "source_type": "api",
-    "last_verified": "2026-06-26T09:53:10Z",
+    "last_verified": "2026-06-27T09:06:41Z",
     "confidence": "high",
     "needs_review": false
   },
@@ -8059,7 +8059,7 @@
     "apply_url": "https://www.grants.gov/search-results-detail/362481",
     "source_url": "https://www.grants.gov/search-results-detail/362481",
     "source_type": "api",
-    "last_verified": "2026-06-26T09:53:10Z",
+    "last_verified": "2026-06-27T09:06:41Z",
     "confidence": "high",
     "needs_review": false
   },
@@ -8095,7 +8095,7 @@
     "apply_url": "https://www.grants.gov/search-results-detail/361554",
     "source_url": "https://www.grants.gov/search-results-detail/361554",
     "source_type": "api",
-    "last_verified": "2026-06-26T09:53:10Z",
+    "last_verified": "2026-06-27T09:06:41Z",
     "confidence": "high",
     "needs_review": false
   },
@@ -8113,7 +8113,7 @@
     "apply_url": "https://www.grants.gov/search-results-detail/358935",
     "source_url": "https://www.grants.gov/search-results-detail/358935",
     "source_type": "api",
-    "last_verified": "2026-06-25T09:46:26Z",
+    "last_verified": "2026-06-27T09:06:41Z",
     "confidence": "high",
     "needs_review": false
   },
@@ -8149,7 +8149,7 @@
     "apply_url": "https://www.grants.gov/search-results-detail/361483",
     "source_url": "https://www.grants.gov/search-results-detail/361483",
     "source_type": "api",
-    "last_verified": "2026-06-26T09:53:10Z",
+    "last_verified": "2026-06-27T09:06:41Z",
     "confidence": "high",
     "needs_review": false
   },
@@ -8167,7 +8167,7 @@
     "apply_url": "https://www.grants.gov/search-results-detail/318351",
     "source_url": "https://www.grants.gov/search-results-detail/318351",
     "source_type": "api",
-    "last_verified": "2026-06-26T09:53:10Z",
+    "last_verified": "2026-06-27T09:06:41Z",
     "confidence": "high",
     "needs_review": false
   },
@@ -8185,7 +8185,7 @@
     "apply_url": "https://www.grants.gov/search-results-detail/332894",
     "source_url": "https://www.grants.gov/search-results-detail/332894",
     "source_type": "api",
-    "last_verified": "2026-06-26T09:53:10Z",
+    "last_verified": "2026-06-27T09:06:41Z",
     "confidence": "high",
     "needs_review": false
   },
@@ -8203,7 +8203,7 @@
     "apply_url": "https://www.grants.gov/search-results-detail/355196",
     "source_url": "https://www.grants.gov/search-results-detail/355196",
     "source_type": "api",
-    "last_verified": "2026-06-26T09:53:10Z",
+    "last_verified": "2026-06-27T09:06:41Z",
     "confidence": "high",
     "needs_review": false
   },
@@ -8239,7 +8239,7 @@
     "apply_url": "https://www.grants.gov/search-results-detail/360534",
     "source_url": "https://www.grants.gov/search-results-detail/360534",
     "source_type": "api",
-    "last_verified": "2026-06-26T09:53:10Z",
+    "last_verified": "2026-06-27T09:06:41Z",
     "confidence": "high",
     "needs_review": false
   },
@@ -8311,7 +8311,7 @@
     "apply_url": "https://www.grants.gov/search-results-detail/362643",
     "source_url": "https://www.grants.gov/search-results-detail/362643",
     "source_type": "api",
-    "last_verified": "2026-06-26T09:53:10Z",
+    "last_verified": "2026-06-27T09:06:41Z",
     "confidence": "high",
     "needs_review": false
   },
@@ -8329,7 +8329,7 @@
     "apply_url": "https://www.grants.gov/search-results-detail/360536",
     "source_url": "https://www.grants.gov/search-results-detail/360536",
     "source_type": "api",
-    "last_verified": "2026-06-26T09:53:10Z",
+    "last_verified": "2026-06-27T09:06:41Z",
     "confidence": "high",
     "needs_review": false
   },
@@ -8347,7 +8347,7 @@
     "apply_url": "https://www.grants.gov/search-results-detail/362181",
     "source_url": "https://www.grants.gov/search-results-detail/362181",
     "source_type": "api",
-    "last_verified": "2026-06-26T09:53:10Z",
+    "last_verified": "2026-06-27T09:06:41Z",
     "confidence": "high",
     "needs_review": false
   },
@@ -8365,7 +8365,7 @@
     "apply_url": "https://www.grants.gov/search-results-detail/349618",
     "source_url": "https://www.grants.gov/search-results-detail/349618",
     "source_type": "api",
-    "last_verified": "2026-06-26T09:53:10Z",
+    "last_verified": "2026-06-27T09:06:41Z",
     "confidence": "high",
     "needs_review": false
   },
@@ -8401,7 +8401,7 @@
     "apply_url": "https://www.grants.gov/search-results-detail/328902",
     "source_url": "https://www.grants.gov/search-results-detail/328902",
     "source_type": "api",
-    "last_verified": "2026-06-26T09:53:10Z",
+    "last_verified": "2026-06-27T09:06:41Z",
     "confidence": "high",
     "needs_review": false
   },
@@ -8419,7 +8419,7 @@
     "apply_url": "https://www.grants.gov/search-results-detail/362497",
     "source_url": "https://www.grants.gov/search-results-detail/362497",
     "source_type": "api",
-    "last_verified": "2026-06-26T09:53:10Z",
+    "last_verified": "2026-06-27T09:06:41Z",
     "confidence": "high",
     "needs_review": false
   },
@@ -8833,7 +8833,7 @@
     "apply_url": "https://naturesblueprint.devpost.com/",
     "source_url": "https://naturesblueprint.devpost.com/",
     "source_type": "api",
-    "last_verified": "2026-06-26T09:53:10Z",
+    "last_verified": "2026-06-27T09:06:41Z",
     "confidence": "medium",
     "needs_review": false
   },
@@ -9085,7 +9085,7 @@
     "apply_url": "https://hf0.com/",
     "source_url": "https://hf0.com/",
     "source_type": "llm",
-    "last_verified": "2026-06-26T09:53:10Z",
+    "last_verified": "2026-06-27T09:06:41Z",
     "confidence": "medium",
     "needs_review": false
   },
@@ -9121,7 +9121,7 @@
     "apply_url": "https://h01.devpost.com/",
     "source_url": "https://h01.devpost.com/",
     "source_type": "api",
-    "last_verified": "2026-06-26T09:53:10Z",
+    "last_verified": "2026-06-27T09:06:41Z",
     "confidence": "medium",
     "needs_review": false
   },
@@ -9139,7 +9139,7 @@
     "apply_url": "https://uipath-agenthack.devpost.com/",
     "source_url": "https://uipath-agenthack.devpost.com/",
     "source_type": "api",
-    "last_verified": "2026-06-26T09:53:10Z",
+    "last_verified": "2026-06-27T09:06:41Z",
     "confidence": "medium",
     "needs_review": false
   },
@@ -9157,7 +9157,7 @@
     "apply_url": "https://nacos-x-gdg-ai-hackathon.devpost.com/",
     "source_url": "https://nacos-x-gdg-ai-hackathon.devpost.com/",
     "source_type": "api",
-    "last_verified": "2026-06-26T09:53:10Z",
+    "last_verified": "2026-06-27T09:06:41Z",
     "confidence": "medium",
     "needs_review": false
   },
@@ -9175,7 +9175,7 @@
     "apply_url": "https://build-the-future-with-ai.devpost.com/",
     "source_url": "https://build-the-future-with-ai.devpost.com/",
     "source_type": "api",
-    "last_verified": "2026-06-26T09:53:10Z",
+    "last_verified": "2026-06-27T09:06:41Z",
     "confidence": "medium",
     "needs_review": false
   },
@@ -9193,7 +9193,7 @@
     "apply_url": "https://creatorcolosseum.devpost.com/",
     "source_url": "https://creatorcolosseum.devpost.com/",
     "source_type": "api",
-    "last_verified": "2026-06-26T09:53:10Z",
+    "last_verified": "2026-06-27T09:06:41Z",
     "confidence": "medium",
     "needs_review": false
   },
@@ -9596,7 +9596,7 @@
   {
     "slug": "texas-fund",
     "name": "Texas Fund",
-    "category": "grant",
+    "category": "accelerator",
     "organizer": "Capital Factory",
     "deadline": null,
     "rolling": true,
@@ -9607,7 +9607,7 @@
     "apply_url": "https://www.capitalfactory.com/",
     "source_url": "https://www.capitalfactory.com/",
     "source_type": "llm",
-    "last_verified": "2026-06-26T09:53:10Z",
+    "last_verified": "2026-06-27T09:06:41Z",
     "confidence": "medium",
     "needs_review": false
   },
@@ -9620,12 +9620,12 @@
     "rolling": true,
     "event_date": null,
     "location": "New York City",
-    "funding": "Pre-seed investment",
+    "funding": "pre-seed investment",
     "stage": "pre-seed",
     "apply_url": "https://www.indiebio.co/",
     "source_url": "https://www.indiebio.co/",
     "source_type": "llm",
-    "last_verified": "2026-06-26T09:53:10Z",
+    "last_verified": "2026-06-27T09:06:41Z",
     "confidence": "medium",
     "needs_review": false
   },
@@ -9638,12 +9638,12 @@
     "rolling": true,
     "event_date": null,
     "location": "San Francisco",
-    "funding": "Pre-seed investment",
+    "funding": "pre-seed investment",
     "stage": "pre-seed",
     "apply_url": "https://www.indiebio.co/",
     "source_url": "https://www.indiebio.co/",
     "source_type": "llm",
-    "last_verified": "2026-06-26T09:53:10Z",
+    "last_verified": "2026-06-27T09:06:41Z",
     "confidence": "medium",
     "needs_review": false
   },
@@ -9769,7 +9769,7 @@
     "apply_url": "https://www.grants.gov/search-results-detail/362675",
     "source_url": "https://www.grants.gov/search-results-detail/362675",
     "source_type": "api",
-    "last_verified": "2026-06-26T09:53:10Z",
+    "last_verified": "2026-06-27T09:06:41Z",
     "confidence": "high",
     "needs_review": false
   },
@@ -9787,7 +9787,7 @@
     "apply_url": "https://www.grants.gov/search-results-detail/362713",
     "source_url": "https://www.grants.gov/search-results-detail/362713",
     "source_type": "api",
-    "last_verified": "2026-06-26T09:53:10Z",
+    "last_verified": "2026-06-27T09:06:41Z",
     "confidence": "high",
     "needs_review": false
   },
@@ -9823,7 +9823,7 @@
     "apply_url": "https://www.grants.gov/search-results-detail/360441",
     "source_url": "https://www.grants.gov/search-results-detail/360441",
     "source_type": "api",
-    "last_verified": "2026-06-26T09:53:10Z",
+    "last_verified": "2026-06-27T09:06:41Z",
     "confidence": "high",
     "needs_review": false
   },
@@ -9841,7 +9841,7 @@
     "apply_url": "https://www.grants.gov/search-results-detail/362711",
     "source_url": "https://www.grants.gov/search-results-detail/362711",
     "source_type": "api",
-    "last_verified": "2026-06-26T09:53:10Z",
+    "last_verified": "2026-06-27T09:06:41Z",
     "confidence": "high",
     "needs_review": false
   },
@@ -9877,7 +9877,7 @@
     "apply_url": "https://www.grants.gov/search-results-detail/360446",
     "source_url": "https://www.grants.gov/search-results-detail/360446",
     "source_type": "api",
-    "last_verified": "2026-06-26T09:53:10Z",
+    "last_verified": "2026-06-27T09:06:41Z",
     "confidence": "high",
     "needs_review": false
   },
@@ -9913,7 +9913,7 @@
     "apply_url": "https://www.grants.gov/search-results-detail/334326",
     "source_url": "https://www.grants.gov/search-results-detail/334326",
     "source_type": "api",
-    "last_verified": "2026-06-26T09:53:10Z",
+    "last_verified": "2026-06-27T09:06:41Z",
     "confidence": "high",
     "needs_review": false
   },
@@ -9931,7 +9931,7 @@
     "apply_url": "https://www.grants.gov/search-results-detail/362728",
     "source_url": "https://www.grants.gov/search-results-detail/362728",
     "source_type": "api",
-    "last_verified": "2026-06-26T09:53:10Z",
+    "last_verified": "2026-06-27T09:06:41Z",
     "confidence": "high",
     "needs_review": false
   },
@@ -9949,7 +9949,7 @@
     "apply_url": "https://www.grants.gov/search-results-detail/362726",
     "source_url": "https://www.grants.gov/search-results-detail/362726",
     "source_type": "api",
-    "last_verified": "2026-06-26T09:53:10Z",
+    "last_verified": "2026-06-27T09:06:41Z",
     "confidence": "high",
     "needs_review": false
   },
@@ -9967,7 +9967,7 @@
     "apply_url": "https://www.grants.gov/search-results-detail/358991",
     "source_url": "https://www.grants.gov/search-results-detail/358991",
     "source_type": "api",
-    "last_verified": "2026-06-26T09:53:10Z",
+    "last_verified": "2026-06-27T09:06:41Z",
     "confidence": "high",
     "needs_review": false
   },
@@ -9985,7 +9985,7 @@
     "apply_url": "https://www.grants.gov/search-results-detail/362729",
     "source_url": "https://www.grants.gov/search-results-detail/362729",
     "source_type": "api",
-    "last_verified": "2026-06-26T09:53:10Z",
+    "last_verified": "2026-06-27T09:06:41Z",
     "confidence": "high",
     "needs_review": false
   },
@@ -10051,13 +10051,13 @@
     "deadline": null,
     "rolling": true,
     "event_date": null,
-    "location": "Palo Alto",
+    "location": "Palo Alto, USA",
     "funding": "",
-    "stage": "any",
+    "stage": "seed",
     "apply_url": "https://www.500.co/accelerators",
     "source_url": "https://www.500.co/accelerators",
     "source_type": "llm",
-    "last_verified": "2026-06-24T09:52:08Z",
+    "last_verified": "2026-06-27T09:06:41Z",
     "confidence": "medium",
     "needs_review": false
   },
@@ -10075,7 +10075,7 @@
     "apply_url": "https://www.500.co/accelerators",
     "source_url": "https://www.500.co/accelerators",
     "source_type": "llm",
-    "last_verified": "2026-06-24T09:52:08Z",
+    "last_verified": "2026-06-27T09:06:41Z",
     "confidence": "medium",
     "needs_review": false
   },
@@ -10089,11 +10089,11 @@
     "event_date": null,
     "location": "LATIN AMERICA",
     "funding": "$300,000",
-    "stage": "any",
+    "stage": "seed",
     "apply_url": "https://www.500.co/accelerators",
     "source_url": "https://www.500.co/accelerators",
     "source_type": "llm",
-    "last_verified": "2026-06-24T09:52:08Z",
+    "last_verified": "2026-06-27T09:06:41Z",
     "confidence": "medium",
     "needs_review": false
   },
@@ -10111,7 +10111,7 @@
     "apply_url": "https://www.500.co/accelerators",
     "source_url": "https://www.500.co/accelerators",
     "source_type": "llm",
-    "last_verified": "2026-06-24T09:52:08Z",
+    "last_verified": "2026-06-27T09:06:41Z",
     "confidence": "medium",
     "needs_review": false
   },
@@ -10129,7 +10129,7 @@
     "apply_url": "https://www.500.co/accelerators",
     "source_url": "https://www.500.co/accelerators",
     "source_type": "llm",
-    "last_verified": "2026-06-24T09:52:08Z",
+    "last_verified": "2026-06-27T09:06:41Z",
     "confidence": "medium",
     "needs_review": false
   },
@@ -10147,7 +10147,7 @@
     "apply_url": "https://www.500.co/accelerators",
     "source_url": "https://www.500.co/accelerators",
     "source_type": "llm",
-    "last_verified": "2026-06-24T09:52:08Z",
+    "last_verified": "2026-06-27T09:06:41Z",
     "confidence": "medium",
     "needs_review": false
   },
@@ -10159,13 +10159,13 @@
     "deadline": null,
     "rolling": true,
     "event_date": null,
-    "location": "MENA",
+    "location": "Various",
     "funding": "",
     "stage": "pre-seed",
     "apply_url": "https://www.500.co/accelerators",
     "source_url": "https://www.500.co/accelerators",
     "source_type": "llm",
-    "last_verified": "2026-06-24T09:52:08Z",
+    "last_verified": "2026-06-27T09:06:41Z",
     "confidence": "medium",
     "needs_review": false
   },
@@ -10201,7 +10201,7 @@
     "apply_url": "https://www.500.co/accelerators",
     "source_url": "https://www.500.co/accelerators",
     "source_type": "llm",
-    "last_verified": "2026-06-24T09:52:08Z",
+    "last_verified": "2026-06-27T09:06:41Z",
     "confidence": "medium",
     "needs_review": false
   },
@@ -10219,7 +10219,7 @@
     "apply_url": "https://www.500.co/accelerators",
     "source_url": "https://www.500.co/accelerators",
     "source_type": "llm",
-    "last_verified": "2026-06-24T09:52:08Z",
+    "last_verified": "2026-06-27T09:06:41Z",
     "confidence": "medium",
     "needs_review": false
   },
@@ -10231,13 +10231,13 @@
     "deadline": null,
     "rolling": true,
     "event_date": null,
-    "location": "Silicon Valley",
+    "location": "Silicon Valley, USA",
     "funding": "",
     "stage": "any",
     "apply_url": "https://www.500.co/accelerators",
     "source_url": "https://www.500.co/accelerators",
     "source_type": "llm",
-    "last_verified": "2026-06-24T09:52:08Z",
+    "last_verified": "2026-06-27T09:06:41Z",
     "confidence": "medium",
     "needs_review": false
   },
@@ -10249,13 +10249,13 @@
     "deadline": null,
     "rolling": true,
     "event_date": null,
-    "location": "Silicon Valley",
+    "location": "Silicon Valley, USA",
     "funding": "",
-    "stage": "any",
+    "stage": "seed",
     "apply_url": "https://www.500.co/accelerators",
     "source_url": "https://www.500.co/accelerators",
     "source_type": "llm",
-    "last_verified": "2026-06-24T09:52:08Z",
+    "last_verified": "2026-06-27T09:06:41Z",
     "confidence": "medium",
     "needs_review": false
   },
@@ -10381,7 +10381,7 @@
     "apply_url": "https://www.grants.gov/search-results-detail/362757",
     "source_url": "https://www.grants.gov/search-results-detail/362757",
     "source_type": "api",
-    "last_verified": "2026-06-26T09:53:10Z",
+    "last_verified": "2026-06-27T09:06:41Z",
     "confidence": "high",
     "needs_review": false
   },
@@ -10399,7 +10399,7 @@
     "apply_url": "https://www.grants.gov/search-results-detail/362746",
     "source_url": "https://www.grants.gov/search-results-detail/362746",
     "source_type": "api",
-    "last_verified": "2026-06-26T09:53:10Z",
+    "last_verified": "2026-06-27T09:06:41Z",
     "confidence": "high",
     "needs_review": false
   },
@@ -10417,7 +10417,7 @@
     "apply_url": "https://www.grants.gov/search-results-detail/362748",
     "source_url": "https://www.grants.gov/search-results-detail/362748",
     "source_type": "api",
-    "last_verified": "2026-06-26T09:53:10Z",
+    "last_verified": "2026-06-27T09:06:41Z",
     "confidence": "high",
     "needs_review": false
   },
@@ -10435,7 +10435,7 @@
     "apply_url": "https://www.grants.gov/search-results-detail/362716",
     "source_url": "https://www.grants.gov/search-results-detail/362716",
     "source_type": "api",
-    "last_verified": "2026-06-26T09:53:10Z",
+    "last_verified": "2026-06-27T09:06:41Z",
     "confidence": "high",
     "needs_review": false
   },
@@ -10471,7 +10471,7 @@
     "apply_url": "https://www.grants.gov/search-results-detail/362755",
     "source_url": "https://www.grants.gov/search-results-detail/362755",
     "source_type": "api",
-    "last_verified": "2026-06-26T09:53:10Z",
+    "last_verified": "2026-06-27T09:06:41Z",
     "confidence": "high",
     "needs_review": false
   },
@@ -10489,7 +10489,7 @@
     "apply_url": "https://www.grants.gov/search-results-detail/362750",
     "source_url": "https://www.grants.gov/search-results-detail/362750",
     "source_type": "api",
-    "last_verified": "2026-06-26T09:53:10Z",
+    "last_verified": "2026-06-27T09:06:41Z",
     "confidence": "high",
     "needs_review": false
   },
@@ -10507,7 +10507,7 @@
     "apply_url": "https://www.grants.gov/search-results-detail/362751",
     "source_url": "https://www.grants.gov/search-results-detail/362751",
     "source_type": "api",
-    "last_verified": "2026-06-26T09:53:10Z",
+    "last_verified": "2026-06-27T09:06:41Z",
     "confidence": "high",
     "needs_review": false
   },
@@ -10543,7 +10543,7 @@
     "apply_url": "https://www.gener8tor.com/programs",
     "source_url": "https://www.gener8tor.com/programs",
     "source_type": "llm",
-    "last_verified": "2026-06-18T10:50:06Z",
+    "last_verified": "2026-06-27T09:06:41Z",
     "confidence": "medium",
     "needs_review": false
   },
@@ -10556,12 +10556,12 @@
     "rolling": true,
     "event_date": null,
     "location": "",
-    "funding": "None",
+    "funding": "Equity-free",
     "stage": "pre-seed",
     "apply_url": "https://www.gener8tor.com/programs",
     "source_url": "https://www.gener8tor.com/programs",
     "source_type": "llm",
-    "last_verified": "2026-06-18T10:50:06Z",
+    "last_verified": "2026-06-27T09:06:41Z",
     "confidence": "medium",
     "needs_review": false
   },
@@ -10574,12 +10574,12 @@
     "rolling": true,
     "event_date": null,
     "location": "",
-    "funding": "None",
+    "funding": "Equity-free",
     "stage": "pre-seed",
     "apply_url": "https://www.gener8tor.com/programs",
     "source_url": "https://www.gener8tor.com/programs",
     "source_type": "llm",
-    "last_verified": "2026-06-18T10:50:06Z",
+    "last_verified": "2026-06-27T09:06:41Z",
     "confidence": "medium",
     "needs_review": false
   },
@@ -10592,12 +10592,12 @@
     "rolling": true,
     "event_date": null,
     "location": "",
-    "funding": "None",
+    "funding": "Equity-free",
     "stage": "pre-seed",
     "apply_url": "https://www.gener8tor.com/programs",
     "source_url": "https://www.gener8tor.com/programs",
     "source_type": "llm",
-    "last_verified": "2026-06-18T10:50:06Z",
+    "last_verified": "2026-06-27T09:06:41Z",
     "confidence": "medium",
     "needs_review": false
   },
@@ -10610,12 +10610,12 @@
     "rolling": true,
     "event_date": null,
     "location": "",
-    "funding": "grant funding",
+    "funding": "Grant funding",
     "stage": "any",
     "apply_url": "https://www.gener8tor.com/programs",
     "source_url": "https://www.gener8tor.com/programs",
     "source_type": "llm",
-    "last_verified": "2026-06-18T10:50:06Z",
+    "last_verified": "2026-06-27T09:06:41Z",
     "confidence": "medium",
     "needs_review": false
   },
@@ -10628,12 +10628,12 @@
     "rolling": true,
     "event_date": null,
     "location": "",
-    "funding": "None",
+    "funding": "Equity-free mentorship and industry network access",
     "stage": "any",
     "apply_url": "https://www.gener8tor.com/programs",
     "source_url": "https://www.gener8tor.com/programs",
     "source_type": "llm",
-    "last_verified": "2026-06-18T10:50:06Z",
+    "last_verified": "2026-06-27T09:06:41Z",
     "confidence": "medium",
     "needs_review": false
   },
@@ -10646,12 +10646,12 @@
     "rolling": true,
     "event_date": null,
     "location": "",
-    "funding": "Investment",
+    "funding": "Investment for equity",
     "stage": "any",
     "apply_url": "https://www.gener8tor.com/programs",
     "source_url": "https://www.gener8tor.com/programs",
     "source_type": "llm",
-    "last_verified": "2026-06-18T10:50:06Z",
+    "last_verified": "2026-06-27T09:06:41Z",
     "confidence": "medium",
     "needs_review": false
   },
@@ -10669,7 +10669,7 @@
     "apply_url": "https://www.grants.gov/search-results-detail/362758",
     "source_url": "https://www.grants.gov/search-results-detail/362758",
     "source_type": "api",
-    "last_verified": "2026-06-26T09:53:10Z",
+    "last_verified": "2026-06-27T09:06:41Z",
     "confidence": "high",
     "needs_review": false
   },
@@ -10687,7 +10687,7 @@
     "apply_url": "https://www.grants.gov/search-results-detail/361601",
     "source_url": "https://www.grants.gov/search-results-detail/361601",
     "source_type": "api",
-    "last_verified": "2026-06-26T09:53:10Z",
+    "last_verified": "2026-06-27T09:06:41Z",
     "confidence": "high",
     "needs_review": false
   },
@@ -10705,7 +10705,7 @@
     "apply_url": "https://www.grants.gov/search-results-detail/362763",
     "source_url": "https://www.grants.gov/search-results-detail/362763",
     "source_type": "api",
-    "last_verified": "2026-06-26T09:53:10Z",
+    "last_verified": "2026-06-27T09:06:41Z",
     "confidence": "high",
     "needs_review": false
   },
@@ -10719,11 +10719,11 @@
     "event_date": null,
     "location": "Various",
     "funding": "",
-    "stage": "any",
+    "stage": "seed",
     "apply_url": "https://www.500.co/accelerators",
     "source_url": "https://www.500.co/accelerators",
     "source_type": "llm",
-    "last_verified": "2026-06-24T09:52:08Z",
+    "last_verified": "2026-06-27T09:06:41Z",
     "confidence": "medium",
     "needs_review": false
   },
@@ -10795,7 +10795,7 @@
     "apply_url": "https://www.grants.gov/search-results-detail/354144",
     "source_url": "https://www.grants.gov/search-results-detail/354144",
     "source_type": "api",
-    "last_verified": "2026-06-26T09:53:10Z",
+    "last_verified": "2026-06-27T09:06:41Z",
     "confidence": "high",
     "needs_review": false
   },
@@ -11029,7 +11029,7 @@
     "apply_url": "https://www.grants.gov/search-results-detail/362790",
     "source_url": "https://www.grants.gov/search-results-detail/362790",
     "source_type": "api",
-    "last_verified": "2026-06-26T09:53:10Z",
+    "last_verified": "2026-06-27T09:06:41Z",
     "confidence": "high",
     "needs_review": false
   },
@@ -11047,7 +11047,7 @@
     "apply_url": "https://www.grants.gov/search-results-detail/362793",
     "source_url": "https://www.grants.gov/search-results-detail/362793",
     "source_type": "api",
-    "last_verified": "2026-06-26T09:53:10Z",
+    "last_verified": "2026-06-27T09:06:41Z",
     "confidence": "high",
     "needs_review": false
   },
@@ -11083,7 +11083,7 @@
     "apply_url": "https://www.grants.gov/search-results-detail/362798",
     "source_url": "https://www.grants.gov/search-results-detail/362798",
     "source_type": "api",
-    "last_verified": "2026-06-26T09:53:10Z",
+    "last_verified": "2026-06-27T09:06:41Z",
     "confidence": "high",
     "needs_review": false
   },
@@ -11101,7 +11101,7 @@
     "apply_url": "https://www.grants.gov/search-results-detail/362797",
     "source_url": "https://www.grants.gov/search-results-detail/362797",
     "source_type": "api",
-    "last_verified": "2026-06-26T09:53:10Z",
+    "last_verified": "2026-06-27T09:06:41Z",
     "confidence": "high",
     "needs_review": false
   },
@@ -11137,7 +11137,7 @@
     "apply_url": "https://www.grants.gov/search-results-detail/362791",
     "source_url": "https://www.grants.gov/search-results-detail/362791",
     "source_type": "api",
-    "last_verified": "2026-06-26T09:53:10Z",
+    "last_verified": "2026-06-27T09:06:41Z",
     "confidence": "high",
     "needs_review": false
   },
@@ -11173,7 +11173,7 @@
     "apply_url": "https://www.grants.gov/search-results-detail/362816",
     "source_url": "https://www.grants.gov/search-results-detail/362816",
     "source_type": "api",
-    "last_verified": "2026-06-26T09:53:10Z",
+    "last_verified": "2026-06-27T09:06:41Z",
     "confidence": "high",
     "needs_review": false
   },
@@ -11191,7 +11191,7 @@
     "apply_url": "https://www.grants.gov/search-results-detail/362805",
     "source_url": "https://www.grants.gov/search-results-detail/362805",
     "source_type": "api",
-    "last_verified": "2026-06-26T09:53:10Z",
+    "last_verified": "2026-06-27T09:06:41Z",
     "confidence": "high",
     "needs_review": false
   },
@@ -11209,7 +11209,7 @@
     "apply_url": "https://www.grants.gov/search-results-detail/358955",
     "source_url": "https://www.grants.gov/search-results-detail/358955",
     "source_type": "api",
-    "last_verified": "2026-06-26T09:53:10Z",
+    "last_verified": "2026-06-27T09:06:41Z",
     "confidence": "high",
     "needs_review": false
   },
@@ -11227,7 +11227,7 @@
     "apply_url": "https://www.grants.gov/search-results-detail/362802",
     "source_url": "https://www.grants.gov/search-results-detail/362802",
     "source_type": "api",
-    "last_verified": "2026-06-26T09:53:10Z",
+    "last_verified": "2026-06-27T09:06:41Z",
     "confidence": "high",
     "needs_review": false
   },
@@ -11299,7 +11299,7 @@
     "apply_url": "https://glitch-to-win-games.devpost.com/",
     "source_url": "https://glitch-to-win-games.devpost.com/",
     "source_type": "api",
-    "last_verified": "2026-06-26T09:53:10Z",
+    "last_verified": "2026-06-27T09:06:41Z",
     "confidence": "medium",
     "needs_review": false
   },
@@ -11317,7 +11317,7 @@
     "apply_url": "https://www.grants.gov/search-results-detail/359859",
     "source_url": "https://www.grants.gov/search-results-detail/359859",
     "source_type": "api",
-    "last_verified": "2026-06-26T09:53:10Z",
+    "last_verified": "2026-06-27T09:06:41Z",
     "confidence": "high",
     "needs_review": false
   },
@@ -11335,7 +11335,7 @@
     "apply_url": "https://www.grants.gov/search-results-detail/362833",
     "source_url": "https://www.grants.gov/search-results-detail/362833",
     "source_type": "api",
-    "last_verified": "2026-06-26T09:53:10Z",
+    "last_verified": "2026-06-27T09:06:41Z",
     "confidence": "high",
     "needs_review": false
   },
@@ -11353,7 +11353,7 @@
     "apply_url": "https://www.grants.gov/search-results-detail/362828",
     "source_url": "https://www.grants.gov/search-results-detail/362828",
     "source_type": "api",
-    "last_verified": "2026-06-26T09:53:10Z",
+    "last_verified": "2026-06-27T09:06:41Z",
     "confidence": "high",
     "needs_review": false
   },
@@ -11371,7 +11371,7 @@
     "apply_url": "https://www.grants.gov/search-results-detail/362836",
     "source_url": "https://www.grants.gov/search-results-detail/362836",
     "source_type": "api",
-    "last_verified": "2026-06-26T09:53:10Z",
+    "last_verified": "2026-06-27T09:06:41Z",
     "confidence": "high",
     "needs_review": false
   },
@@ -11389,7 +11389,7 @@
     "apply_url": "https://sunnyhacks-june-2026.devpost.com/",
     "source_url": "https://sunnyhacks-june-2026.devpost.com/",
     "source_type": "api",
-    "last_verified": "2026-06-26T09:53:10Z",
+    "last_verified": "2026-06-27T09:06:41Z",
     "confidence": "medium",
     "needs_review": false
   },
@@ -11407,7 +11407,7 @@
     "apply_url": "https://impact-creation.devpost.com/",
     "source_url": "https://impact-creation.devpost.com/",
     "source_type": "api",
-    "last_verified": "2026-06-26T09:53:10Z",
+    "last_verified": "2026-06-27T09:06:41Z",
     "confidence": "medium",
     "needs_review": false
   },
@@ -11425,7 +11425,7 @@
     "apply_url": "https://futureai-global-hackthon.devpost.com/",
     "source_url": "https://futureai-global-hackthon.devpost.com/",
     "source_type": "api",
-    "last_verified": "2026-06-26T09:53:10Z",
+    "last_verified": "2026-06-27T09:06:41Z",
     "confidence": "medium",
     "needs_review": false
   },
@@ -11461,7 +11461,7 @@
     "apply_url": "https://www.capitalfactory.com/",
     "source_url": "https://www.capitalfactory.com/",
     "source_type": "llm",
-    "last_verified": "2026-06-26T09:53:10Z",
+    "last_verified": "2026-06-27T09:06:41Z",
     "confidence": "medium",
     "needs_review": false
   },
@@ -11479,7 +11479,7 @@
     "apply_url": "https://www.grants.gov/search-results-detail/362857",
     "source_url": "https://www.grants.gov/search-results-detail/362857",
     "source_type": "api",
-    "last_verified": "2026-06-26T09:53:10Z",
+    "last_verified": "2026-06-27T09:06:41Z",
     "confidence": "high",
     "needs_review": false
   },
@@ -11497,7 +11497,7 @@
     "apply_url": "https://www.grants.gov/search-results-detail/362859",
     "source_url": "https://www.grants.gov/search-results-detail/362859",
     "source_type": "api",
-    "last_verified": "2026-06-26T09:53:10Z",
+    "last_verified": "2026-06-27T09:06:41Z",
     "confidence": "high",
     "needs_review": false
   },
@@ -11515,7 +11515,7 @@
     "apply_url": "https://www.grants.gov/search-results-detail/362864",
     "source_url": "https://www.grants.gov/search-results-detail/362864",
     "source_type": "api",
-    "last_verified": "2026-06-26T09:53:10Z",
+    "last_verified": "2026-06-27T09:06:41Z",
     "confidence": "high",
     "needs_review": false
   },
@@ -11551,7 +11551,7 @@
     "apply_url": "https://www.grants.gov/search-results-detail/353821",
     "source_url": "https://www.grants.gov/search-results-detail/353821",
     "source_type": "api",
-    "last_verified": "2026-06-26T09:53:10Z",
+    "last_verified": "2026-06-27T09:06:41Z",
     "confidence": "high",
     "needs_review": false
   },
@@ -11569,7 +11569,7 @@
     "apply_url": "https://www.grants.gov/search-results-detail/362889",
     "source_url": "https://www.grants.gov/search-results-detail/362889",
     "source_type": "api",
-    "last_verified": "2026-06-26T09:53:10Z",
+    "last_verified": "2026-06-27T09:06:41Z",
     "confidence": "high",
     "needs_review": false
   },
@@ -11731,7 +11731,7 @@
     "apply_url": "https://www.grants.gov/search-results-detail/362900",
     "source_url": "https://www.grants.gov/search-results-detail/362900",
     "source_type": "api",
-    "last_verified": "2026-06-26T09:53:10Z",
+    "last_verified": "2026-06-27T09:06:41Z",
     "confidence": "high",
     "needs_review": false
   },
@@ -11749,7 +11749,7 @@
     "apply_url": "https://www.grants.gov/search-results-detail/362877",
     "source_url": "https://www.grants.gov/search-results-detail/362877",
     "source_type": "api",
-    "last_verified": "2026-06-26T09:53:10Z",
+    "last_verified": "2026-06-27T09:06:41Z",
     "confidence": "high",
     "needs_review": false
   },
@@ -11857,7 +11857,7 @@
     "apply_url": "https://lecathon.devpost.com/",
     "source_url": "https://lecathon.devpost.com/",
     "source_type": "api",
-    "last_verified": "2026-06-26T09:53:10Z",
+    "last_verified": "2026-06-27T09:06:41Z",
     "confidence": "high",
     "needs_review": false
   },
@@ -11893,7 +11893,7 @@
     "apply_url": "https://www.grants.gov/search-results-detail/362939",
     "source_url": "https://www.grants.gov/search-results-detail/362939",
     "source_type": "api",
-    "last_verified": "2026-06-26T09:53:10Z",
+    "last_verified": "2026-06-27T09:06:41Z",
     "confidence": "high",
     "needs_review": false
   },
@@ -11911,7 +11911,7 @@
     "apply_url": "https://www.grants.gov/search-results-detail/362937",
     "source_url": "https://www.grants.gov/search-results-detail/362937",
     "source_type": "api",
-    "last_verified": "2026-06-26T09:53:10Z",
+    "last_verified": "2026-06-27T09:06:41Z",
     "confidence": "high",
     "needs_review": false
   },
@@ -11929,7 +11929,7 @@
     "apply_url": "https://www.grants.gov/search-results-detail/360561",
     "source_url": "https://www.grants.gov/search-results-detail/360561",
     "source_type": "api",
-    "last_verified": "2026-06-26T09:53:10Z",
+    "last_verified": "2026-06-27T09:06:41Z",
     "confidence": "high",
     "needs_review": false
   },
@@ -11947,7 +11947,7 @@
     "apply_url": "https://www.grants.gov/search-results-detail/362913",
     "source_url": "https://www.grants.gov/search-results-detail/362913",
     "source_type": "api",
-    "last_verified": "2026-06-26T09:53:10Z",
+    "last_verified": "2026-06-27T09:06:41Z",
     "confidence": "high",
     "needs_review": false
   },
@@ -11965,7 +11965,7 @@
     "apply_url": "https://www.grants.gov/search-results-detail/362929",
     "source_url": "https://www.grants.gov/search-results-detail/362929",
     "source_type": "api",
-    "last_verified": "2026-06-26T09:53:10Z",
+    "last_verified": "2026-06-27T09:06:41Z",
     "confidence": "high",
     "needs_review": false
   },
@@ -11983,7 +11983,7 @@
     "apply_url": "https://easygo-mini-hackathon.devpost.com/",
     "source_url": "https://easygo-mini-hackathon.devpost.com/",
     "source_type": "api",
-    "last_verified": "2026-06-26T09:53:10Z",
+    "last_verified": "2026-06-27T09:06:41Z",
     "confidence": "high",
     "needs_review": false
   },
@@ -12001,7 +12001,7 @@
     "apply_url": "https://www.grants.gov/search-results-detail/362944",
     "source_url": "https://www.grants.gov/search-results-detail/362944",
     "source_type": "api",
-    "last_verified": "2026-06-26T09:53:10Z",
+    "last_verified": "2026-06-27T09:06:41Z",
     "confidence": "high",
     "needs_review": false
   },
@@ -12019,7 +12019,7 @@
     "apply_url": "https://www.grants.gov/search-results-detail/362949",
     "source_url": "https://www.grants.gov/search-results-detail/362949",
     "source_type": "api",
-    "last_verified": "2026-06-26T09:53:10Z",
+    "last_verified": "2026-06-27T09:06:41Z",
     "confidence": "high",
     "needs_review": false
   },
@@ -12037,7 +12037,7 @@
     "apply_url": "https://www.grants.gov/search-results-detail/362927",
     "source_url": "https://www.grants.gov/search-results-detail/362927",
     "source_type": "api",
-    "last_verified": "2026-06-26T09:53:10Z",
+    "last_verified": "2026-06-27T09:06:41Z",
     "confidence": "high",
     "needs_review": false
   },
@@ -12055,7 +12055,7 @@
     "apply_url": "https://www.grants.gov/search-results-detail/362931",
     "source_url": "https://www.grants.gov/search-results-detail/362931",
     "source_type": "api",
-    "last_verified": "2026-06-26T09:53:10Z",
+    "last_verified": "2026-06-27T09:06:41Z",
     "confidence": "high",
     "needs_review": false
   },
@@ -12073,7 +12073,7 @@
     "apply_url": "https://www.grants.gov/search-results-detail/362923",
     "source_url": "https://www.grants.gov/search-results-detail/362923",
     "source_type": "api",
-    "last_verified": "2026-06-26T09:53:10Z",
+    "last_verified": "2026-06-27T09:06:41Z",
     "confidence": "high",
     "needs_review": false
   },
@@ -12091,7 +12091,7 @@
     "apply_url": "https://www.grants.gov/search-results-detail/362926",
     "source_url": "https://www.grants.gov/search-results-detail/362926",
     "source_type": "api",
-    "last_verified": "2026-06-26T09:53:10Z",
+    "last_verified": "2026-06-27T09:06:41Z",
     "confidence": "high",
     "needs_review": false
   },
@@ -12109,7 +12109,7 @@
     "apply_url": "https://www.grants.gov/search-results-detail/362943",
     "source_url": "https://www.grants.gov/search-results-detail/362943",
     "source_type": "api",
-    "last_verified": "2026-06-26T09:53:10Z",
+    "last_verified": "2026-06-27T09:06:41Z",
     "confidence": "high",
     "needs_review": false
   },
@@ -12127,7 +12127,7 @@
     "apply_url": "https://www.grants.gov/search-results-detail/362961",
     "source_url": "https://www.grants.gov/search-results-detail/362961",
     "source_type": "api",
-    "last_verified": "2026-06-26T09:53:10Z",
+    "last_verified": "2026-06-27T09:06:41Z",
     "confidence": "high",
     "needs_review": false
   },
@@ -12181,7 +12181,7 @@
     "apply_url": "https://www.grants.gov/search-results-detail/360532",
     "source_url": "https://www.grants.gov/search-results-detail/360532",
     "source_type": "api",
-    "last_verified": "2026-06-26T09:53:10Z",
+    "last_verified": "2026-06-27T09:06:41Z",
     "confidence": "high",
     "needs_review": false
   },
@@ -12217,7 +12217,7 @@
     "apply_url": "https://www.grants.gov/search-results-detail/362967",
     "source_url": "https://www.grants.gov/search-results-detail/362967",
     "source_type": "api",
-    "last_verified": "2026-06-26T09:53:10Z",
+    "last_verified": "2026-06-27T09:06:41Z",
     "confidence": "high",
     "needs_review": false
   },
@@ -12235,7 +12235,7 @@
     "apply_url": "https://www.grants.gov/search-results-detail/362975",
     "source_url": "https://www.grants.gov/search-results-detail/362975",
     "source_type": "api",
-    "last_verified": "2026-06-26T09:53:10Z",
+    "last_verified": "2026-06-27T09:06:41Z",
     "confidence": "high",
     "needs_review": false
   },
@@ -12253,7 +12253,7 @@
     "apply_url": "https://hack-days-in-hosur-30464.devpost.com/",
     "source_url": "https://hack-days-in-hosur-30464.devpost.com/",
     "source_type": "api",
-    "last_verified": "2026-06-26T09:53:10Z",
+    "last_verified": "2026-06-27T09:06:41Z",
     "confidence": "high",
     "needs_review": false
   },
@@ -12271,7 +12271,7 @@
     "apply_url": "https://themasterymentorshackathon.devpost.com/",
     "source_url": "https://themasterymentorshackathon.devpost.com/",
     "source_type": "api",
-    "last_verified": "2026-06-26T09:53:10Z",
+    "last_verified": "2026-06-27T09:06:41Z",
     "confidence": "medium",
     "needs_review": false
   },
@@ -12289,8 +12289,116 @@
     "apply_url": "https://sg-kiro-buildfest.devpost.com/",
     "source_url": "https://sg-kiro-buildfest.devpost.com/",
     "source_type": "api",
-    "last_verified": "2026-06-26T09:53:10Z",
+    "last_verified": "2026-06-27T09:06:41Z",
     "confidence": "medium",
+    "needs_review": false
+  },
+  {
+    "slug": "fy-2026-cn-technology-innovation-grant-for-child-and-adult-care-food-program-integrity-2026",
+    "name": "FY 2026 CN Technology Innovation Grant for Child and Adult Care Food Program Integrity",
+    "category": "grant",
+    "organizer": "Food and Nutrition Service",
+    "deadline": "2026-07-31T00:00:00Z",
+    "rolling": false,
+    "event_date": null,
+    "location": "Remote",
+    "funding": "",
+    "stage": "any",
+    "apply_url": "https://www.grants.gov/search-results-detail/362971",
+    "source_url": "https://www.grants.gov/search-results-detail/362971",
+    "source_type": "api",
+    "last_verified": "2026-06-27T09:06:41Z",
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "slug": "nih-director-rsquo-s-new-innovator-award-dp2-clinical-trial-optional-2026",
+    "name": "NIH Director&rsquo;s New Innovator Award (DP2 Clinical Trial Optional)",
+    "category": "grant",
+    "organizer": "National Institutes of Health",
+    "deadline": "2026-08-17T00:00:00Z",
+    "rolling": false,
+    "event_date": null,
+    "location": "Remote",
+    "funding": "",
+    "stage": "any",
+    "apply_url": "https://www.grants.gov/search-results-detail/360987",
+    "source_url": "https://www.grants.gov/search-results-detail/360987",
+    "source_type": "api",
+    "last_verified": "2026-06-27T09:06:41Z",
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "slug": "nih-director-rsquo-s-early-independence-award-dp5-clinical-trial-optional-2026",
+    "name": "NIH Director&rsquo;s Early Independence Award (DP5 Clinical Trial Optional)",
+    "category": "grant",
+    "organizer": "National Institutes of Health",
+    "deadline": "2026-09-10T00:00:00Z",
+    "rolling": false,
+    "event_date": null,
+    "location": "Remote",
+    "funding": "",
+    "stage": "any",
+    "apply_url": "https://www.grants.gov/search-results-detail/360988",
+    "source_url": "https://www.grants.gov/search-results-detail/360988",
+    "source_type": "api",
+    "last_verified": "2026-06-27T09:06:41Z",
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "slug": "a-demonstration-to-scale-innovative-person-centered-approaches-to-falls-prevention-through-clinical-community-partnerships-2026",
+    "name": "A Demonstration to Scale Innovative Person-Centered Approaches to Falls Prevention through Clinical-Community Partnerships",
+    "category": "grant",
+    "organizer": "Administration for Community Living",
+    "deadline": "2026-07-27T00:00:00Z",
+    "rolling": false,
+    "event_date": null,
+    "location": "Remote",
+    "funding": "",
+    "stage": "any",
+    "apply_url": "https://www.grants.gov/search-results-detail/360505",
+    "source_url": "https://www.grants.gov/search-results-detail/360505",
+    "source_type": "api",
+    "last_verified": "2026-06-27T09:06:41Z",
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "slug": "fy25-fy26-advanced-transportation-technology-and-innovation-attain-2026",
+    "name": "FY25-FY26 Advanced Transportation Technology and Innovation (ATTAIN)",
+    "category": "grant",
+    "organizer": "DOT Federal Highway Administration",
+    "deadline": "2026-07-27T00:00:00Z",
+    "rolling": false,
+    "event_date": null,
+    "location": "Remote",
+    "funding": "",
+    "stage": "any",
+    "apply_url": "https://www.grants.gov/search-results-detail/362980",
+    "source_url": "https://www.grants.gov/search-results-detail/362980",
+    "source_type": "api",
+    "last_verified": "2026-06-27T09:06:41Z",
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "slug": "acc-workshop-june-26th-2026",
+    "name": "ACC Workshop June 26th",
+    "category": "competition",
+    "organizer": "Sustainable Living Lab",
+    "deadline": "2026-07-03T00:00:00Z",
+    "rolling": false,
+    "event_date": null,
+    "location": "ACC Round Rock Campus",
+    "funding": "$0",
+    "stage": "any",
+    "apply_url": "https://accjune26.devpost.com/",
+    "source_url": "https://accjune26.devpost.com/",
+    "source_type": "api",
+    "last_verified": "2026-06-27T09:06:41Z",
+    "confidence": "high",
     "needs_review": false
   }
 ]
