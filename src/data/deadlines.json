@@ -9625,7 +9625,7 @@
     "apply_url": "https://www.indiebio.co/",
     "source_url": "https://www.indiebio.co/",
     "source_type": "llm",
-    "last_verified": "2026-11-23T18:17:18Z",
+    "last_verified": "2026-11-25T17:18:55Z",
     "confidence": "medium",
     "needs_review": false
   },
@@ -9643,7 +9643,7 @@
     "apply_url": "https://www.indiebio.co/",
     "source_url": "https://www.indiebio.co/",
     "source_type": "llm",
-    "last_verified": "2026-11-23T18:17:18Z",
+    "last_verified": "2026-11-25T17:18:55Z",
     "confidence": "medium",
     "needs_review": false
   },
@@ -10052,12 +10052,12 @@
     "rolling": true,
     "event_date": null,
     "location": "Silicon Valley",
-    "funding": "Invests in early-stage tech startups",
-    "stage": "any",
+    "funding": "Investment",
+    "stage": "seed",
     "apply_url": "https://www.500.co/accelerators",
     "source_url": "https://www.500.co/accelerators",
     "source_type": "llm",
-    "last_verified": "2026-11-22T14:40:05Z",
+    "last_verified": "2026-11-25T17:18:55Z",
     "confidence": "medium",
     "needs_review": false
   },
@@ -10075,7 +10075,7 @@
     "apply_url": "https://www.500.co/accelerators",
     "source_url": "https://www.500.co/accelerators",
     "source_type": "llm",
-    "last_verified": "2026-11-22T14:40:05Z",
+    "last_verified": "2026-11-25T17:18:55Z",
     "confidence": "medium",
     "needs_review": false
   },
@@ -10093,7 +10093,7 @@
     "apply_url": "https://www.500.co/accelerators",
     "source_url": "https://www.500.co/accelerators",
     "source_type": "llm",
-    "last_verified": "2026-11-22T14:40:05Z",
+    "last_verified": "2026-11-25T17:18:55Z",
     "confidence": "medium",
     "needs_review": false
   },
@@ -10111,7 +10111,7 @@
     "apply_url": "https://www.500.co/accelerators",
     "source_url": "https://www.500.co/accelerators",
     "source_type": "llm",
-    "last_verified": "2026-11-22T14:40:05Z",
+    "last_verified": "2026-11-25T17:18:55Z",
     "confidence": "medium",
     "needs_review": false
   },
@@ -10147,7 +10147,7 @@
     "apply_url": "https://www.500.co/accelerators",
     "source_url": "https://www.500.co/accelerators",
     "source_type": "llm",
-    "last_verified": "2026-11-22T14:40:05Z",
+    "last_verified": "2026-11-25T17:18:55Z",
     "confidence": "medium",
     "needs_review": false
   },
@@ -10165,7 +10165,7 @@
     "apply_url": "https://www.500.co/accelerators",
     "source_url": "https://www.500.co/accelerators",
     "source_type": "llm",
-    "last_verified": "2026-11-22T14:40:05Z",
+    "last_verified": "2026-11-25T17:18:55Z",
     "confidence": "medium",
     "needs_review": false
   },
@@ -10201,7 +10201,7 @@
     "apply_url": "https://www.500.co/accelerators",
     "source_url": "https://www.500.co/accelerators",
     "source_type": "llm",
-    "last_verified": "2026-11-22T14:40:05Z",
+    "last_verified": "2026-11-25T17:18:55Z",
     "confidence": "medium",
     "needs_review": false
   },
@@ -10215,18 +10215,18 @@
     "event_date": null,
     "location": "Egypt",
     "funding": "",
-    "stage": "seed",
+    "stage": "any",
     "apply_url": "https://www.500.co/accelerators",
     "source_url": "https://www.500.co/accelerators",
     "source_type": "llm",
-    "last_verified": "2026-11-22T14:40:05Z",
+    "last_verified": "2026-11-25T17:18:55Z",
     "confidence": "medium",
     "needs_review": false
   },
   {
     "slug": "j-starx-silicon-valley-extended-program-by-500-global",
     "name": "J-StarX Silicon Valley Extended Program by 500 Global",
-    "category": "fellowship",
+    "category": "accelerator",
     "organizer": "500 Global",
     "deadline": null,
     "rolling": true,
@@ -10237,7 +10237,7 @@
     "apply_url": "https://www.500.co/accelerators",
     "source_url": "https://www.500.co/accelerators",
     "source_type": "llm",
-    "last_verified": "2026-11-22T14:40:05Z",
+    "last_verified": "2026-11-25T17:18:55Z",
     "confidence": "medium",
     "needs_review": false
   },
@@ -10255,7 +10255,7 @@
     "apply_url": "https://www.500.co/accelerators",
     "source_url": "https://www.500.co/accelerators",
     "source_type": "llm",
-    "last_verified": "2026-11-22T14:40:05Z",
+    "last_verified": "2026-11-25T17:18:55Z",
     "confidence": "medium",
     "needs_review": false
   },
@@ -10543,7 +10543,7 @@
     "apply_url": "https://www.gener8tor.com/programs",
     "source_url": "https://www.gener8tor.com/programs",
     "source_type": "llm",
-    "last_verified": "2026-11-21T14:44:06Z",
+    "last_verified": "2026-11-25T17:18:55Z",
     "confidence": "medium",
     "needs_review": false
   },
@@ -10561,7 +10561,7 @@
     "apply_url": "https://www.gener8tor.com/programs",
     "source_url": "https://www.gener8tor.com/programs",
     "source_type": "llm",
-    "last_verified": "2026-11-22T14:40:05Z",
+    "last_verified": "2026-11-25T17:18:55Z",
     "confidence": "medium",
     "needs_review": false
   },
@@ -10579,7 +10579,7 @@
     "apply_url": "https://www.gener8tor.com/programs",
     "source_url": "https://www.gener8tor.com/programs",
     "source_type": "llm",
-    "last_verified": "2026-11-22T14:40:05Z",
+    "last_verified": "2026-11-25T17:18:55Z",
     "confidence": "medium",
     "needs_review": false
   },
@@ -10597,7 +10597,7 @@
     "apply_url": "https://www.gener8tor.com/programs",
     "source_url": "https://www.gener8tor.com/programs",
     "source_type": "llm",
-    "last_verified": "2026-11-22T14:40:05Z",
+    "last_verified": "2026-11-25T17:18:55Z",
     "confidence": "medium",
     "needs_review": false
   },
@@ -10615,7 +10615,7 @@
     "apply_url": "https://www.gener8tor.com/programs",
     "source_url": "https://www.gener8tor.com/programs",
     "source_type": "llm",
-    "last_verified": "2026-11-22T14:40:05Z",
+    "last_verified": "2026-11-25T17:18:55Z",
     "confidence": "medium",
     "needs_review": false
   },
@@ -10628,12 +10628,12 @@
     "rolling": true,
     "event_date": null,
     "location": "",
-    "funding": "Mentorship and network support",
+    "funding": "Mentorship support",
     "stage": "any",
     "apply_url": "https://www.gener8tor.com/programs",
     "source_url": "https://www.gener8tor.com/programs",
     "source_type": "llm",
-    "last_verified": "2026-11-22T14:40:05Z",
+    "last_verified": "2026-11-25T17:18:55Z",
     "confidence": "medium",
     "needs_review": false
   },
@@ -10646,12 +10646,12 @@
     "rolling": true,
     "event_date": null,
     "location": "",
-    "funding": "Investment and support",
+    "funding": "Investment",
     "stage": "any",
     "apply_url": "https://www.gener8tor.com/programs",
     "source_url": "https://www.gener8tor.com/programs",
     "source_type": "llm",
-    "last_verified": "2026-11-21T14:44:06Z",
+    "last_verified": "2026-11-25T17:18:55Z",
     "confidence": "medium",
     "needs_review": false
   },
@@ -10723,7 +10723,7 @@
     "apply_url": "https://www.500.co/accelerators",
     "source_url": "https://www.500.co/accelerators",
     "source_type": "llm",
-    "last_verified": "2026-11-21T14:44:06Z",
+    "last_verified": "2026-11-25T17:18:55Z",
     "confidence": "medium",
     "needs_review": false
   },
@@ -10921,7 +10921,7 @@
     "apply_url": "https://www.startupbootcamp.org/",
     "source_url": "https://www.startupbootcamp.org/",
     "source_type": "llm",
-    "last_verified": "2026-11-23T18:17:18Z",
+    "last_verified": "2026-11-25T17:18:55Z",
     "confidence": "high",
     "needs_review": false
   },
@@ -10939,7 +10939,7 @@
     "apply_url": "https://www.startupbootcamp.org/",
     "source_url": "https://www.startupbootcamp.org/",
     "source_type": "llm",
-    "last_verified": "2026-11-23T18:17:18Z",
+    "last_verified": "2026-11-25T17:18:55Z",
     "confidence": "high",
     "needs_review": false
   },
@@ -10957,7 +10957,7 @@
     "apply_url": "https://www.startupbootcamp.org/",
     "source_url": "https://www.startupbootcamp.org/",
     "source_type": "llm",
-    "last_verified": "2026-11-23T18:17:18Z",
+    "last_verified": "2026-11-25T17:18:55Z",
     "confidence": "high",
     "needs_review": false
   },
@@ -10975,7 +10975,7 @@
     "apply_url": "https://www.startupbootcamp.org/",
     "source_url": "https://www.startupbootcamp.org/",
     "source_type": "llm",
-    "last_verified": "2026-11-23T18:17:18Z",
+    "last_verified": "2026-11-25T17:18:55Z",
     "confidence": "medium",
     "needs_review": false
   },
@@ -10993,7 +10993,7 @@
     "apply_url": "https://www.startupbootcamp.org/",
     "source_url": "https://www.startupbootcamp.org/",
     "source_type": "llm",
-    "last_verified": "2026-11-23T18:17:18Z",
+    "last_verified": "2026-11-25T17:18:55Z",
     "confidence": "medium",
     "needs_review": false
   },
@@ -11011,7 +11011,7 @@
     "apply_url": "https://www.startupbootcamp.org/",
     "source_url": "https://www.startupbootcamp.org/",
     "source_type": "llm",
-    "last_verified": "2026-11-23T18:17:18Z",
+    "last_verified": "2026-11-25T17:18:55Z",
     "confidence": "medium",
     "needs_review": false
   },
@@ -14989,7 +14989,7 @@
     "apply_url": "https://www.alchemistaccelerator.com/apply",
     "source_url": "https://www.alchemistaccelerator.com/apply",
     "source_type": "llm",
-    "last_verified": "2026-11-22T14:40:05Z",
+    "last_verified": "2026-11-25T17:18:55Z",
     "confidence": "low",
     "needs_review": false
   },
@@ -18578,7 +18578,7 @@
   {
     "slug": "georgia-startup-academy-by-500-global",
     "name": "Georgia Startup Academy by 500 Global",
-    "category": "fellowship",
+    "category": "accelerator",
     "organizer": "500 Global",
     "deadline": null,
     "rolling": true,
@@ -18589,7 +18589,7 @@
     "apply_url": "https://www.500.co/accelerators",
     "source_url": "https://www.500.co/accelerators",
     "source_type": "llm",
-    "last_verified": "2026-11-22T14:40:05Z",
+    "last_verified": "2026-11-25T17:18:55Z",
     "confidence": "medium",
     "needs_review": false
   },
@@ -18603,11 +18603,11 @@
     "event_date": null,
     "location": "Tokyo",
     "funding": "",
-    "stage": "pre-seed",
+    "stage": "seed",
     "apply_url": "https://www.500.co/accelerators",
     "source_url": "https://www.500.co/accelerators",
     "source_type": "llm",
-    "last_verified": "2026-11-22T14:40:05Z",
+    "last_verified": "2026-11-25T17:18:55Z",
     "confidence": "medium",
     "needs_review": false
   },
@@ -18889,13 +18889,13 @@
     "deadline": null,
     "rolling": true,
     "event_date": null,
-    "location": "Global",
-    "funding": "Investment from Antler",
-    "stage": "any",
+    "location": "Multiple Cities Worldwide",
+    "funding": "Investment",
+    "stage": "pre-seed",
     "apply_url": "https://www.antler.co/apply",
     "source_url": "https://www.antler.co/apply",
     "source_type": "llm",
-    "last_verified": "2026-11-15T13:59:50Z",
+    "last_verified": "2026-11-25T17:18:55Z",
     "confidence": "medium",
     "needs_review": false
   },
@@ -22488,14 +22488,14 @@
     "organizer": "Y Combinator",
     "deadline": null,
     "rolling": true,
-    "event_date": "2027-01-01",
+    "event_date": "2027-01-25",
     "location": "San Francisco",
     "funding": "$12,000,000",
     "stage": "any",
     "apply_url": "https://www.ycombinator.com/apply",
     "source_url": "https://www.ycombinator.com/apply",
     "source_type": "llm",
-    "last_verified": "2026-11-24T17:51:19Z",
+    "last_verified": "2026-11-25T17:18:55Z",
     "confidence": "high",
     "needs_review": false
   },
@@ -23269,7 +23269,7 @@
     "apply_url": "https://ese4500f26.devpost.com/",
     "source_url": "https://ese4500f26.devpost.com/",
     "source_type": "api",
-    "last_verified": "2026-11-24T17:51:19Z",
+    "last_verified": "2026-11-25T17:18:55Z",
     "confidence": "high",
     "needs_review": false
   },
@@ -24979,7 +24979,7 @@
     "apply_url": "https://learn-specs.devpost.com/",
     "source_url": "https://learn-specs.devpost.com/",
     "source_type": "api",
-    "last_verified": "2026-11-24T17:51:19Z",
+    "last_verified": "2026-11-25T17:18:55Z",
     "confidence": "medium",
     "needs_review": false
   },
@@ -25285,7 +25285,7 @@
     "apply_url": "https://green-shift-hacks.devpost.com/",
     "source_url": "https://green-shift-hacks.devpost.com/",
     "source_type": "api",
-    "last_verified": "2026-11-24T17:51:19Z",
+    "last_verified": "2026-11-25T17:18:55Z",
     "confidence": "medium",
     "needs_review": false
   },
@@ -25442,12 +25442,12 @@
     "rolling": true,
     "event_date": null,
     "location": "",
-    "funding": "Market entry support",
+    "funding": "Equity-free",
     "stage": "any",
     "apply_url": "https://www.gener8tor.com/programs",
     "source_url": "https://www.gener8tor.com/programs",
     "source_type": "llm",
-    "last_verified": "2026-11-22T14:40:05Z",
+    "last_verified": "2026-11-25T17:18:55Z",
     "confidence": "medium",
     "needs_review": false
   },
@@ -25465,7 +25465,7 @@
     "apply_url": "https://speedrun.a16z.com",
     "source_url": "https://a16z.com/speedrun/",
     "source_type": "llm",
-    "last_verified": "2026-11-23T18:17:18Z",
+    "last_verified": "2026-11-25T17:18:55Z",
     "confidence": "high",
     "needs_review": false
   },
@@ -25537,7 +25537,7 @@
     "apply_url": "https://accessed-hacks.devpost.com/",
     "source_url": "https://accessed-hacks.devpost.com/",
     "source_type": "api",
-    "last_verified": "2026-11-17T16:05:08Z",
+    "last_verified": "2026-11-25T17:18:55Z",
     "confidence": "medium",
     "needs_review": false
   },
@@ -25573,7 +25573,7 @@
     "apply_url": "https://stem2connect-online-hackathon.devpost.com/",
     "source_url": "https://stem2connect-online-hackathon.devpost.com/",
     "source_type": "api",
-    "last_verified": "2026-11-24T17:51:19Z",
+    "last_verified": "2026-11-25T17:18:55Z",
     "confidence": "medium",
     "needs_review": false
   },
@@ -25681,7 +25681,7 @@
     "apply_url": "https://code-for-dfw.devpost.com/",
     "source_url": "https://code-for-dfw.devpost.com/",
     "source_type": "api",
-    "last_verified": "2026-11-24T17:51:19Z",
+    "last_verified": "2026-11-25T17:18:55Z",
     "confidence": "medium",
     "needs_review": false
   },
@@ -25753,7 +25753,7 @@
     "apply_url": "https://build-your-first-ai-app.devpost.com/",
     "source_url": "https://build-your-first-ai-app.devpost.com/",
     "source_type": "api",
-    "last_verified": "2026-11-24T17:51:19Z",
+    "last_verified": "2026-11-25T17:18:55Z",
     "confidence": "medium",
     "needs_review": false
   },
@@ -25771,7 +25771,7 @@
     "apply_url": "https://arbiter-hacks-v1.devpost.com/",
     "source_url": "https://arbiter-hacks-v1.devpost.com/",
     "source_type": "api",
-    "last_verified": "2026-11-04T14:38:29Z",
+    "last_verified": "2026-11-25T17:18:55Z",
     "confidence": "medium",
     "needs_review": false
   },
@@ -25897,7 +25897,7 @@
     "apply_url": "https://csc-winter-sparkathon.devpost.com/",
     "source_url": "https://csc-winter-sparkathon.devpost.com/",
     "source_type": "api",
-    "last_verified": "2026-11-24T17:51:19Z",
+    "last_verified": "2026-11-25T17:18:55Z",
     "confidence": "medium",
     "needs_review": false
   },
@@ -25915,7 +25915,7 @@
     "apply_url": "https://codegeist2026.devpost.com/",
     "source_url": "https://codegeist2026.devpost.com/",
     "source_type": "api",
-    "last_verified": "2026-11-04T14:38:29Z",
+    "last_verified": "2026-11-25T17:18:55Z",
     "confidence": "medium",
     "needs_review": false
   },
@@ -26329,7 +26329,7 @@
     "apply_url": "https://kiroween.devpost.com/",
     "source_url": "https://kiroween.devpost.com/",
     "source_type": "api",
-    "last_verified": "2026-11-24T17:51:19Z",
+    "last_verified": "2026-11-25T17:18:55Z",
     "confidence": "medium",
     "needs_review": false
   },
@@ -26491,7 +26491,7 @@
     "apply_url": "https://aws-agentic-msp.devpost.com/",
     "source_url": "https://aws-agentic-msp.devpost.com/",
     "source_type": "api",
-    "last_verified": "2026-11-24T17:51:19Z",
+    "last_verified": "2026-11-25T17:18:55Z",
     "confidence": "medium",
     "needs_review": false
   },
@@ -26509,7 +26509,7 @@
     "apply_url": "https://qnx.devpost.com/",
     "source_url": "https://qnx.devpost.com/",
     "source_type": "api",
-    "last_verified": "2026-11-24T17:51:19Z",
+    "last_verified": "2026-11-25T17:18:55Z",
     "confidence": "medium",
     "needs_review": false
   },
@@ -26806,7 +26806,7 @@
     "name": "Taskforge",
     "category": "competition",
     "organizer": "HackathonForEveryone",
-    "deadline": "2026-11-24T00:00:00Z",
+    "deadline": "2026-12-10T00:00:00Z",
     "rolling": false,
     "event_date": null,
     "location": "Remote",
@@ -26815,7 +26815,7 @@
     "apply_url": "https://taskforge.devpost.com/",
     "source_url": "https://taskforge.devpost.com/",
     "source_type": "api",
-    "last_verified": "2026-11-23T18:17:18Z",
+    "last_verified": "2026-11-25T17:18:55Z",
     "confidence": "medium",
     "needs_review": false
   },
@@ -26833,7 +26833,7 @@
     "apply_url": "https://ai-agents-founders-hetic-26.devpost.com/",
     "source_url": "https://ai-agents-founders-hetic-26.devpost.com/",
     "source_type": "api",
-    "last_verified": "2026-11-24T17:51:19Z",
+    "last_verified": "2026-11-25T17:18:55Z",
     "confidence": "medium",
     "needs_review": false
   },
@@ -26905,7 +26905,7 @@
     "apply_url": "https://code-for-change-global.devpost.com/",
     "source_url": "https://code-for-change-global.devpost.com/",
     "source_type": "api",
-    "last_verified": "2026-11-24T17:51:19Z",
+    "last_verified": "2026-11-25T17:18:55Z",
     "confidence": "medium",
     "needs_review": false
   },
@@ -26923,7 +26923,7 @@
     "apply_url": "https://ai-for-medicine.devpost.com/",
     "source_url": "https://ai-for-medicine.devpost.com/",
     "source_type": "api",
-    "last_verified": "2026-11-24T17:51:19Z",
+    "last_verified": "2026-11-25T17:18:55Z",
     "confidence": "medium",
     "needs_review": false
   },
@@ -26941,7 +26941,7 @@
     "apply_url": "https://ai-openbuild.devpost.com/",
     "source_url": "https://ai-openbuild.devpost.com/",
     "source_type": "api",
-    "last_verified": "2026-11-24T17:51:19Z",
+    "last_verified": "2026-11-25T17:18:55Z",
     "confidence": "medium",
     "needs_review": false
   },
@@ -27103,7 +27103,7 @@
     "apply_url": "https://slayy-hacks.devpost.com/",
     "source_url": "https://slayy-hacks.devpost.com/",
     "source_type": "api",
-    "last_verified": "2026-11-24T17:51:19Z",
+    "last_verified": "2026-11-25T17:18:55Z",
     "confidence": "medium",
     "needs_review": false
   },
@@ -27139,7 +27139,7 @@
     "apply_url": "https://deckthepixels.devpost.com/",
     "source_url": "https://deckthepixels.devpost.com/",
     "source_type": "api",
-    "last_verified": "2026-11-24T17:51:19Z",
+    "last_verified": "2026-11-25T17:18:55Z",
     "confidence": "medium",
     "needs_review": false
   },
@@ -27157,7 +27157,7 @@
     "apply_url": "https://peninsula-innovation-hackathon.devpost.com/",
     "source_url": "https://peninsula-innovation-hackathon.devpost.com/",
     "source_type": "api",
-    "last_verified": "2026-11-24T17:51:19Z",
+    "last_verified": "2026-11-25T17:18:55Z",
     "confidence": "medium",
     "needs_review": false
   },
@@ -27283,7 +27283,7 @@
     "apply_url": "https://hackathon-girls-who-code.devpost.com/",
     "source_url": "https://hackathon-girls-who-code.devpost.com/",
     "source_type": "api",
-    "last_verified": "2026-11-24T17:51:19Z",
+    "last_verified": "2026-11-25T17:18:55Z",
     "confidence": "medium",
     "needs_review": false
   },
@@ -27355,7 +27355,7 @@
     "apply_url": "https://redditgameofday2026.devpost.com/",
     "source_url": "https://redditgameofday2026.devpost.com/",
     "source_type": "api",
-    "last_verified": "2026-11-24T17:51:19Z",
+    "last_verified": "2026-11-25T17:18:55Z",
     "confidence": "medium",
     "needs_review": false
   },
@@ -27373,7 +27373,7 @@
     "apply_url": "https://relate.devpost.com/",
     "source_url": "https://relate.devpost.com/",
     "source_type": "api",
-    "last_verified": "2026-11-24T17:51:19Z",
+    "last_verified": "2026-11-25T17:18:55Z",
     "confidence": "medium",
     "needs_review": false
   },
@@ -27571,7 +27571,7 @@
     "apply_url": "https://launchpad-hacks.devpost.com/",
     "source_url": "https://launchpad-hacks.devpost.com/",
     "source_type": "api",
-    "last_verified": "2026-11-24T17:51:19Z",
+    "last_verified": "2026-11-25T17:18:55Z",
     "confidence": "medium",
     "needs_review": false
   },
@@ -27589,7 +27589,7 @@
     "apply_url": "https://safespace-hacks.devpost.com/",
     "source_url": "https://safespace-hacks.devpost.com/",
     "source_type": "api",
-    "last_verified": "2026-11-24T17:51:19Z",
+    "last_verified": "2026-11-25T17:18:55Z",
     "confidence": "medium",
     "needs_review": false
   },
@@ -27607,7 +27607,7 @@
     "apply_url": "https://silicon-valley-buildathon.devpost.com/",
     "source_url": "https://silicon-valley-buildathon.devpost.com/",
     "source_type": "api",
-    "last_verified": "2026-11-24T17:51:19Z",
+    "last_verified": "2026-11-25T17:18:55Z",
     "confidence": "medium",
     "needs_review": false
   },
@@ -27859,7 +27859,7 @@
     "apply_url": "https://diu-devthon.devpost.com/",
     "source_url": "https://diu-devthon.devpost.com/",
     "source_type": "api",
-    "last_verified": "2026-11-24T17:51:19Z",
+    "last_verified": "2026-11-25T17:18:55Z",
     "confidence": "medium",
     "needs_review": false
   },
@@ -27877,7 +27877,7 @@
     "apply_url": "https://ml-build-challenge-4.devpost.com/",
     "source_url": "https://ml-build-challenge-4.devpost.com/",
     "source_type": "api",
-    "last_verified": "2026-11-24T17:51:19Z",
+    "last_verified": "2026-11-25T17:18:55Z",
     "confidence": "medium",
     "needs_review": false
   },
@@ -27895,7 +27895,7 @@
     "apply_url": "https://perceive-drawing-challenge.devpost.com/",
     "source_url": "https://perceive-drawing-challenge.devpost.com/",
     "source_type": "api",
-    "last_verified": "2026-11-24T17:51:19Z",
+    "last_verified": "2026-11-25T17:18:55Z",
     "confidence": "medium",
     "needs_review": false
   },
@@ -27931,7 +27931,7 @@
     "apply_url": "https://whs-build.devpost.com/",
     "source_url": "https://whs-build.devpost.com/",
     "source_type": "api",
-    "last_verified": "2026-11-24T17:51:19Z",
+    "last_verified": "2026-11-25T17:18:55Z",
     "confidence": "high",
     "needs_review": false
   }
